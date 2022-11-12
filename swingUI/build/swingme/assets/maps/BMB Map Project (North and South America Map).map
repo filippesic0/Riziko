@@ -1,0 +1,57 @@
+; map: BMB Map Project (North and South America Map).map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+ver 2
+
+[files]
+pic BMBMapProject(NorthAndSouthAmericaMap)_pic.png
+map BMBMapProject(NorthAndSouthAmericaMap)_map.gif
+crd BMBMapProject(NorthAndSouthAmericaMap).cards
+
+[continents]
+North_America 5 #fa80ff
+South_America 4 #ff809b
+Other 3 #80c2ff
+
+[countries]
+1 Alaska 1 46 32
+2 Canada 1 71 69
+3 Neatherlands 1 155 35
+4 United_States_of_America 1 52 114
+5 Mexico 1 67 171
+6 Panama_Canal 1 104 197
+7 Cuba 1 134 177
+8 Colombia 2 130 224
+9 Nicaragua 2 162 209
+10 Peru 2 128 252
+11 Brazil 2 182 246
+12 Bolivia 2 161 275
+13 Argintina 2 154 316
+14 North_Atlantic 3 198 119
+15 South_Atlantic 3 188 351
+16 South_Pacific 3 45 299
+17 North_Pacific 3 14 157
+18 Russia 3 33 16
+19 Europe 3 225 21
+
+[borders]
+1 2 18
+2 4 1 3
+3 2 19
+4 2 5 7
+5 4 6
+6 5 8
+7 4 9
+8 6 10 9 11
+9 7 11 8
+10 8 12 11
+11 15 14 9 12 10 8 13
+12 10 13 11
+13 16 15 12 11
+14 11 19
+15 13 11
+16 17 13
+17 18 16
+18 17 1
+19 14 3

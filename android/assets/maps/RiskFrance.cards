@@ -1,0 +1,67 @@
+; cards: RiskFrance.cards
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[cards]
+Cavalry 1
+Infantry 2
+Cannon 3
+Cavalry 4
+Infantry 5
+Cannon 6
+Cavalry 7
+Infantry 8
+Cannon 9
+Cavalry 10
+Infantry 11
+Cannon 12
+Cavalry 13
+Infantry 14
+Cannon 15
+Cavalry 16
+Infantry 17
+Cannon 18
+Cavalry 19
+Infantry 20
+Cannon 21
+Cavalry 22
+Infantry 23
+Cannon 24
+Cavalry 25
+Infantry 26
+Cannon 27
+Cavalry 28
+Infantry 29
+Cannon 30
+Cavalry 31
+Infantry 32
+Cannon 33
+Cavalry 34
+Infantry 35
+Cannon 36
+Cavalry 37
+Infantry 38
+Cannon 39
+Cavalry 40
+Infantry 41
+Cannon 42
+Cavalry 43
+Infantry 44
+
+; destroy x occupy x x continents x x x
+; destroy (Player) occupy (int int) continents (Continent Continent Continent)
+[missions]
+0	0 0	1 9 *	Conquérir en totalité le Nord et Picardie, le Rhônes Alpes et un troisième continent de votre choix.
+0	0 0	2 7 0	Conquérir en totalité l'Alsace Lorraine et l'Aquitaine.
+0	0 0	4 8 0	Conquérir en totalité la Bretagne et la Côte d'Azur.
+0	0 0	3 9 0	Conquérir en totalité la Région Parisienne et le Rhônes Alpes.
+0	0 0	6 5 0	Conquérir en totalité le Centre et la Bourgogne
+0	0 0	1 4 *	Conquérir en totalité le Nord Picardie, la Bretagne et un troisième continent de votre choix.
+0	26 0	0 0 0	Conquérir 26 territoires.
+0	20 2	0 0 0	Conquérir 20 territoires avec un minimum de 2 régiments sur chacun.
+1	26 0	0 0 0	Détruire PLAYER1 TROOPS. Si vous êtes PLAYER1 TROOPS, vous devez occupez 26 territoires.
+2	26 0	0 0 0	Détruire PLAYER2 TROOPS. Si vous êtes PLAYER2 TROOPS, vous devez occupez 26 territoires.
+3	26 0	0 0 0	Détruire PLAYER3 TROOPS. Si vous êtes PLAYER3 TROOPS, vous devez occupez 26 territoires.
+4	26 0	0 0 0	Détruire PLAYER4 TROOPS. Si vous êtes PLAYER4 TROOPS, vous devez occupez 26 territoires.
+5	26 0	0 0 0	Détruire PLAYER5 TROOPS. Si vous êtes PLAYER5 TROOPS, vous devez occupez 26 territoires.
+6	26 0	0 0 0	Détruire PLAYER6 TROOPS. Si vous êtes PLAYER6 TROOPS, vous devez occupez 26 territoires.

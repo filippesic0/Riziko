@@ -1,0 +1,95 @@
+﻿; 1.1.0.7+ (UTF-8)
+; cards: Russia.cards
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[cards]
+Cavalry 4
+Infantry 5
+Cannon 6
+Cavalry 7
+Infantry 8
+Cannon 9
+Cavalry 13
+Infantry 14
+Cannon 15
+Cavalry 16
+Infantry 17
+Cannon 18
+Cavalry 22
+Infantry 23
+Cannon 24
+Cavalry 25
+Infantry 26
+Cannon 27
+Cavalry 31
+Infantry 32
+Cannon 33
+Cavalry 34
+Infantry 35
+Cannon 36
+Cavalry 40
+Infantry 41
+Cannon 42
+Cavalry 43
+Infantry 44
+Cannon 45
+Cavalry 49
+Infantry 50
+Cannon 51
+Cavalry 52
+Infantry 53
+Cannon 54
+Cavalry 58
+Infantry 59
+Cannon 60
+Cavalry 61
+Infantry 62
+Cannon 63
+Infantry 68
+Cannon 69
+Infantry 70
+Cannon 71
+Cavalry 72
+Cavalry 75
+Cannon 76
+Infantry 78
+Cannon 79
+Cavalry 80
+Infantry 81
+Cavalry 83
+Cannon 85
+Cavalry 86
+Infantry 87
+Cannon 88
+Cavalry 89
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+
+; destroy x occupy x x continents x x x
+; destroy (Player) occupy (int int) continents (Continent Continent Continent)
+[missions]
+0	0 0	1 * 7	Захватите два района со столицами и еще один любой
+0	0 0	10 9 4	Разделите Россию на Европу и Азию
+0	0 10	12 0 0	Захватите раздел между Европой и Азией и закрепитесь там
+0	0 10	2 0 0	Захвати самый конфликтный район России и закрепись там
+0	0 0	1 8 6	Захвати три района в центре России
+0	45 0	0 0 0	Захвати треть России
+1	45 1	0 0 0	Destroy all of PLAYER1's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 45 countries.
+2	45 1	0 0 0	Destroy all of PLAYER2's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 45 countries.
+3	45 1	0 0 0	Destroy all of PLAYER3's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 45 countries.
+4	45 1	0 0 0	Destroy all of PLAYER4's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 45 countries.
+5	45 1	0 0 0	Destroy all of PLAYER5's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 45 countries.
+6	45 1	0 0 0	Destroy all of PLAYER6's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 45 countries.

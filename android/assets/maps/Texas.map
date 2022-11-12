@@ -1,0 +1,59 @@
+; map: Texas.map
+; Made with yura.net Domination 1.1.1.4
+; OS: Mac OS X 10.8 unknown (64bit) on x86_64
+
+[files]
+pic Texas_pic.gif
+map Texas_map.gif
+crd Texas.cards
+
+[continents]
+South_Texas 5 #ff80a9
+West_Texas_ 5 #808bff
+East_Texas 5 #d8ff80
+North_Texas_ 5 #80e1ff
+Central_Texas 5 #80ff90
+
+[countries]
+1 Corpus_Christi 1 323 344
+2 Brownsville 1 316 422
+3 Laredo 1 235 348
+4 Rio_Grande_Valley 1 198 265
+5 Houston 3 364 294
+6 Sabine 3 410 201
+7 Port_Arthur 3 382 251
+8 Waco 3 360 191
+9 Panhandle 2 96 267
+10 El_Paso 2 21 194
+11 Midland-Odessa 2 157 198
+12 Far_North 4 213 52
+13 Amarillo 4 146 56
+14 Lubbok 4 182 124
+15 Abeline 4 242 120
+16 Dallas 3 353 141
+17 San_Antonio 5 263 247
+18 Hill_Country 5 216 177
+19 Austin 5 289 209
+20 Ft._Worth 5 331 139
+
+[borders]
+1 2 3 17 5
+2 1 3
+3 1 4 2 17
+4 3 9 18 11 17
+5 1 17 19 8 7
+6 16 7 8
+7 5 8 6
+8 5 20 16 7 19 6
+9 10 11 4
+10 9 11
+11 10 9 18 4 14
+12 13 15 14
+13 14 12
+14 11 13 15 12
+15 18 20 12 14
+16 20 8 6
+17 1 3 5 18 4 19
+18 4 11 15 20 19 17
+19 5 18 20 17 8
+20 18 16 8 19 15

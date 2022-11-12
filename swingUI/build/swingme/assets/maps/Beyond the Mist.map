@@ -1,0 +1,119 @@
+; map: Beyond the Mist.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+circle 40
+
+[files]
+pic BeyondTheMist_pic.png
+map BeyondTheMist_map.gif
+crd BeyondTheMist.cards
+
+[continents]
+The_Islands_of_Fog 5 #006600
+The_Northern_Kingdom 4 blue
+The_Southern_Kingdom 4 red
+Unknown_Territory 6 yellow
+The_Hidden_Lands 3 #9900cc
+
+[countries]
+1 Greenhurst 1 746 687
+2 Deerland 1 1106 639
+3 Merrowholt 1 1344 158
+4 Whitelyn 1 1357 510
+5 Stonebrook 1 1313 587
+6 Vallake 1 1445 201
+7 Lightlea 1 1676 116
+8 Greylyn 1 1549 209
+9 Corcrest 1 1521 302
+10 Northdell 2 132 25
+11 Glassfray 2 571 265
+12 Clearmill 2 124 110
+13 Mallowlea 2 823 194
+14 Westbright 2 200 226
+15 Janland 2 520 192
+16 Freyhollow 2 360 83
+17 Alddell 2 383 260
+18 Fairspell 2 286 151
+19 Marshwell 3 607 504
+20 Esteracre 3 1034 401
+21 Dragoncrest 3 607 368
+22 Strongburne 3 760 451
+23 Belcrest 3 878 388
+24 Silverhedge 3 874 273
+25 Lake_Edge 3 1000 273
+26 Westbush 3 344 381
+27 Greenwynne 3 430 513
+28 Highness 5 1848 477
+29 Clearmist 5 1713 567
+30 Wyvernhurst 5 1436 833
+31 Redapple 5 1591 701
+32 Bydale 5 1851 594
+33 Goldpond 5 1765 690
+34 Wildelight 5 1791 823
+35 Blackwick 5 1845 740
+36 Aldrose 5 1639 810
+37 Riverbourne 4 104 337
+38 Deepfeild 4 87 548
+39 Redshore 4 1016 842
+40 Brightwick 4 36 175
+41 Well_Lake 4 1144 837
+42 Violetacre 4 657 839
+43 Newhollow 4 330 807
+44 Bellbush 4 442 767
+45 Highpine 4 80 809
+46 Newpond 4 300 657
+47 Lorkeep 4 44 686
+48 Faybush 4 244 464
+49 Stonesage 4 206 772
+
+[borders]
+1 22 42 2
+2 20 39 1 5
+3 13 6
+4 5 9
+5 20 2 4
+6 13 3 9 8
+7 8
+8 9 6 7
+9 4 6 8 29
+10 12 16
+11 15 21 13
+12 10 14 18
+13 15 11 3 6
+14 12 17 18 37
+15 16 11 13
+16 10 15
+17 18 14
+18 12 17 14
+19 21 22 27
+20 23 25 2 5
+21 11 26 27 19 22 23
+22 21 23 1 19
+23 21 20 22
+24 25
+25 20 24
+26 21 27
+27 21 19 26 48
+28 29 32
+29 9 32 28
+30 36 31
+31 36 30
+32 29 28 33
+33 32 36 34 35
+34 33 35
+35 33 34
+36 33 30 31
+37 14 48 38 40
+38 37 48 46 47
+39 42 2 41
+40 37
+41 39
+42 44 1 39
+43 46 49 44
+44 43 42
+45 47 49
+46 48 43 38
+47 38 45
+48 27 37 38 46
+49 45 43

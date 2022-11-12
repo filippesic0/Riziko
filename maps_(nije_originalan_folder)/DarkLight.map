@@ -1,0 +1,119 @@
+; map: DarkLight.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+circle 15
+
+[files]
+pic DarkLight_pic.jpg
+map DarkLight_map.gif
+crd DarkLight.cards
+
+[continents]
+Light_Horses 6 #ff9c80
+Foresthook 3 #80ffed
+Mortis 2 #c780ff
+Deepstand 3 #999900
+Skyfell 3 #a480ff
+
+[countries]
+1 Southwave 2 533 257
+2 Braketfield 2 512 223
+3 Treeland 2 550 189
+4 Borderland 2 532 151
+5 Woodfaren 2 514 170
+6 Dreamstide 2 506 141
+7 Meadow_Hence 2 510 197
+8 Warden_Widen_(Underpass) 2 494 183
+9 Lighthood 1 448 152
+10 Warung 2 562 146
+11 Kindleyard 2 567 170
+12 Thameswide 1 457 171
+13 Alwind 1 446 203
+14 Witwire 1 418 210
+15 Sternedge 1 436 121
+16 Wiseflora 1 397 172
+17 Deaden_Floor 1 390 108
+18 Markland_Warren 1 409 133
+19 Broadfoil_(Skypass) 1 413 100
+20 Stricken_Horse's_lands 1 354 159
+21 Curtain_Valley 1 356 127
+22 Strengthen_Soil_(Underpass) 1 310 147
+23 Jerk_Plains 1 334 183
+24 Ravishing_Grass 1 296 196
+25 Praisewind 1 379 243
+26 Jowel_Country 1 362 218
+27 Fellowoods_(Skypass) 1 338 246
+28 Whizwillow 1 315 223
+29 Winger_Breath_(Skypass) 5 424 45
+30 Wilypious_(Skypass) 5 586 50
+31 Rainfallen 5 559 40
+32 Twinkle_Rainbow 5 445 58
+33 Primeraven 5 507 44
+34 Timeclouds 5 545 19
+35 Havenpeck 5 476 60
+36 Featherfar 5 506 21
+37 Harvest_Heresy 5 464 43
+38 Pinerock_(Underpass) 4 179 158
+39 Holstrime 4 151 143
+40 Unearthed_Land 4 210 100
+41 Khoratia 4 186 82
+42 Downstage 4 161 119
+43 Stagoria 4 158 89
+44 Wallanch 4 138 110
+45 Waylandis 3 109 101
+46 Deadstone 3 87 103
+47 Tombrior 3 115 150
+48 Centralus 3 94 132
+49 Haltaria_(Underpass) 3 69 137
+
+[borders]
+1 2 13
+2 1 7 8 12
+3 4 5 9 11 12
+4 3 5 10 11
+5 4 3 6 7
+6 5
+7 5 2 8
+8 7 2 38
+9 3 12 15 18 11
+10 4 11
+11 10 4 3 9
+12 9 3 2
+13 14 1
+14 13 16 23 26
+15 9 18 17 19
+16 14 18 20 23
+17 18 15 19
+18 9 15 16 17
+19 15 17 29
+20 16 21 22 23
+21 20 22
+22 20 23 24 49 21
+23 24 16 20 22 14 26
+24 23 28 22
+25 26 27
+26 25 14 23 27 28
+27 25 26 28 30
+28 27 26 24
+29 19 32 37 36
+30 31 33 27
+31 30 33 34
+32 29 35 37
+33 30 31 34 35 36 37
+34 33 31 36
+35 33 32 37
+36 34 33 29
+37 33 35 32 29
+38 8 39
+39 38 42 47
+40 41 42
+41 40 42 43
+42 40 41 39 43 44
+43 41 42 44
+44 43 42 45
+45 44 46 48 47
+46 45 48 49
+47 39 48 45 49
+48 47 45 46 49
+49 46 48 47 22

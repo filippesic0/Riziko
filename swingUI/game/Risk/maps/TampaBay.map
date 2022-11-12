@@ -1,0 +1,93 @@
+; map: TampaBay.map
+; Made with yura.net Domination 1.1.1.2
+; OS: Mac OS X 10.6.8 unknown (64bit) on x86_64
+
+circle 15
+
+[files]
+pic TampaBay_pic.png
+map TampaBay_map.gif
+crd TampaBay.cards
+
+[continents]
+Manatee 3 #ffda80
+East_Bay 4 #ffcc00
+Tampa 7 #ff8280
+St._Petersburg 6 #8085ff
+Clearwater 5 #80ffc0
+
+[countries]
+1 Bradenton 1 37 277
+2 Palmetto 1 85 293
+3 Anna_Maria 1 39 193
+4 Tierra_Verde 4 226 148
+5 Gulfport 4 261 137
+6 St._Pete_Beach 4 211 126
+7 Pinellas_Point 4 255 181
+8 Treasure_Island 4 242 104
+9 Reddington 4 270 74
+10 Indian_Rocks 4 298 48
+11 St._Petersburg 4 357 165
+12 Pinellas_Park 4 342 120
+13 Largo 5 362 61
+14 Clearwater 5 412 41
+15 Dunedin 5 456 38
+16 Safety_Harbor 5 453 72
+17 Palm_Harbor 5 507 27
+18 Oldsmar 5 520 82
+19 Town_N_Country 3 554 129
+20 Citrus_Park 3 610 115
+21 MacDill 3 439 227
+22 Palma_Ciea 3 483 203
+23 Davis_Islands 3 511 241
+24 Seminole_Heights 3 585 210
+25 Carrollwood 3 623 155
+26 University 3 677 190
+27 Temple_Terrace 3 672 240
+28 Brandon 3 592 327
+29 Beach_Park 3 510 181
+30 Gibsonton 2 498 308
+31 Apollo_Beach 2 393 313
+32 Riverview 2 519 347
+33 Sun_City 2 367 351
+34 Ruskin 2 329 297
+35 Downtown 3 550 227
+36 Terra_Ciea 1 138 262
+
+[borders]
+1 2 3
+2 34 36 1
+3 1
+4 5 6
+5 36 7 4 6 11
+6 5 4 8
+7 5 11
+8 6 12 9
+9 12 8 10
+10 9 13 14
+11 12 7 5 22
+12 8 13 9 11 29 16
+13 12 10 16 14
+14 10 16 13 15
+15 18 16 14 17
+16 29 18 12 13 14 15
+17 18 15
+18 19 16 15 17 20
+19 29 18 20 25
+20 19 18 26 25
+21 22
+22 21 11 29 35
+23 35
+24 29 26 25 35 28
+25 29 19 26 20 24
+26 20 25 24 27
+27 26 28
+28 35 30 27 24 32
+29 12 16 19 22 35 24 25
+30 35 31 33 32 28
+31 30 32 34 36 33
+32 30 28 33 31
+33 30 32 31 34
+34 31 2 33
+35 29 23 22 24 28 30
+36 5 31 2

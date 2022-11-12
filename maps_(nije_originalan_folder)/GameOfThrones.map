@@ -1,0 +1,234 @@
+; map: GameOfThrones.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+ver 2
+circle 35
+
+[files]
+pic GameOfThrones_pic.png
+map GameOfThrones_map.gif
+crd GameOfThrones.cards
+
+[continents]
+The_North 6 #274a69
+The_Iron_Islands 1 #dfe621
+The_Vale 4 #f7f2f8
+The_Stormlands 2 #c9eba4
+The_Reach 6 #277f4a
+The_Westerlands 3 #d52a2a
+The_Riverlands 4 #80caff
+Dorne 4 #8a763e
+KIngslands 2 #ff3700
+
+[countries]
+1 Skagos 1 147 160
+2 Bear_Island 1 227 582
+3 Last_Hearth 1 246 310
+4 Karhold 1 298 189
+5 Deepwood_Motte 1 318 575
+6 The_Dreadfort 1 361 301
+7 Winterfell 1 393 458
+8 Hornwood 1 420 375
+9 Wolfswood 1 290 487
+10 Widow's_Watch 1 499 233
+11 White_Harbor 1 555 379
+12 Stony_Shore 1 446 695
+13 Torrhen's_Square 1 412 565
+14 The_Rills 1 548 652
+15 Barrowlands 1 528 509
+16 The_Neck 1 660 472
+17 Cape_Kraken 1 669 639
+18 The_Wall 1 149 364
+19 Pyke 2 876 664
+20 Harlaw 2 852 626
+21 Great_Wyk 2 853 706
+22 Orkmont 2 833 653
+23 Three_Sisters 3 659 325
+24 Rebble 3 671 236
+25 The_Paps 3 657 143
+26 The_Fingers 3 720 234
+27 Longbow_Hall 3 769 161
+28 Old_Anchor 3 797 136
+29 Ironoaks 3 820 182
+30 Runestone 3 839 134
+31 Gull_Town 3 866 150
+32 The_Eyrie 3 808 247
+33 Bloody_Gate 3 861 281
+34 Western_Mountains_of_the_Moon 3 758 341
+35 The_Twins 7 748 494
+36 Seagard 7 796 531
+37 Green_Fork 7 788 434
+38 Blue_Fork 7 870 436
+39 The_Trident 7 902 384
+40 Saltpans 7 930 327
+41 Oldstones 7 848 482
+42 Riverrun 7 927 485
+43 High_Hart 7 947 425
+44 Stony_Sept 7 1013 426
+45 Harrenhal 7 973 359
+46 Maidenpool 7 978 291
+47 Godseye 7 1042 338
+48 Lannisport 6 1119 652
+49 Casterly_Rock 6 1023 639
+50 Fair_Isle 6 1000 683
+51 The_Crag 6 919 586
+52 Gold_Road 6 1063 512
+53 Silverhill 6 1104 562
+54 Golden_Tooth 6 988 547
+55 Ashemark 6 968 611
+56 Kayce 6 1049 703
+57 King's_Landing 9 1097 317
+58 Rosby 9 1060 282
+59 Duskendale 9 1002 247
+60 Crack_Claw_Point 9 959 170
+61 Dragonstone 9 1003 156
+62 Blackwater_Bay 9 1108 193
+63 Tarth 4 1208 120
+64 Estermont 4 1336 123
+65 Cape_Wrath 4 1308 183
+66 Summerhall 4 1266 281
+67 Blackhaven 4 1312 341
+68 Nightsong 4 1319 451
+69 Storm's_End 4 1208 216
+70 Kingswood 4 1158 263
+71 Bronzegate 4 1162 178
+72 Old_Town 5 1413 650
+73 Three_Towers 5 1480 620
+74 The_Arbor 5 1548 704
+75 Brightwater_Keep 5 1356 646
+76 Horn_Hill 5 1358 563
+77 Highgarden 5 1299 557
+78 Honeyholt 5 1370 685
+79 Ocean_Road 5 1217 654
+80 Red_Lake 5 1192 600
+81 Goldengrove 5 1204 553
+82 Bitterbridge 5 1196 452
+83 Cider_Hall 5 1257 491
+84 Grassy_Vale 5 1244 353
+85 Rose_Road 5 1175 359
+86 Blackwater_Rush 5 1086 423
+87 Mander 5 1148 422
+88 Ashford 5 1275 439
+89 Longtable 5 1246 405
+90 Sunspear 8 1487 164
+91 Lemonwood 8 1518 180
+92 Ghost_Hill 8 1450 133
+93 Godsgrace 8 1483 223
+94 Salt_Shore 8 1506 275
+95 The_Tor 8 1449 285
+96 Yronwood 8 1423 382
+97 Hell_Holt 8 1506 367
+98 Sanderstone 8 1504 468
+99 Starfall 8 1479 536
+100 Blackmont 8 1413 515
+101 Kingsgrave 8 1408 444
+102 Wyl 8 1357 371
+103 Shield_Islands 5 1264 686
+104 Eastern_Mtns_of_the_Moon 3 906 242
+
+[borders]
+1 18 4 3
+2 5
+3 18 9 7 4 6 1
+4 3 6 1
+5 9 13 2
+6 3 4 10 11 8
+7 3 8 9 15 11 13
+8 6 7 11
+9 3 5 7 13 18
+10 6 11
+11 6 7 8 10 15 16 23
+12 13 14
+13 5 7 12 14 15 9
+14 12 13 15
+15 7 11 13 14 16 17
+16 11 15 17 35
+17 16 15 22
+18 3 1 9
+19 20 21 51
+20 19 22 51 36
+21 19 22
+22 20 21 17
+23 26 11 34
+24 26 25
+25 26 24
+26 34 25 24 23 27 32
+27 29 28 26 32
+28 29 27 30
+29 31 28 27 32 33
+30 31 28
+31 29 104 30
+32 33 27 29 26 34
+33 34 32 40 104 29
+34 33 26 37 39 32 23
+35 16 41 37 36
+36 35 41 20
+37 35 41 39 38 34
+38 41 37 39 43 42
+39 37 38 43 40 45 34
+40 39 33 45 46 104
+41 35 36 37 38 42
+42 38 43 44 51 54 41 52
+43 38 39 42 44 45
+44 42 43 45 47 86 52
+45 39 44 43 40 46 47
+46 45 47 40 58 59 104
+47 44 45 46 86 57 58
+48 79 49 53 80
+49 53 55 54 48 56 50
+50 56 49
+51 55 42 54 19 20
+52 54 53 86 44 82 81 42
+53 49 52 80 81 48
+54 51 55 52 42 49
+55 51 54 49
+56 49 50
+57 58 85 86 47 70 87
+58 57 59 47 46
+59 58 60 46 61 104
+60 59 61
+61 60 62 59
+62 71 70 61
+63 69 64 71
+64 63 65 92
+65 69 66 64
+66 69 65 70 67 84 85
+67 66 68 84 88 89 102
+68 67 101 76 88 102
+69 63 71 65 70 66
+70 57 62 69 66 85 71
+71 62 69 70 63
+72 73 75 76 78
+73 72 76 74 99
+74 73
+75 72 78 76 77 103
+76 68 72 73 75 77 100 101 88
+77 75 76 80 79 81 83 103 88
+78 72 75 103
+79 77 80 48 103
+80 53 77 79 81 48
+81 53 82 83 80 77 52
+82 87 88 89 81 83 85 52 86 84
+83 88 81 82 77
+84 85 89 66 67 82
+85 57 70 84 87 82 89 66
+86 52 44 47 87 57 82
+87 86 82 85 57
+88 89 82 83 68 67 77 76
+89 84 88 82 67 85
+90 92 91 93
+91 90 93 94
+92 90 64
+93 90 91 95 94
+94 91 93 95 97
+95 93 94 96
+96 102 95 97 101
+97 94 96 98 101
+98 97 99 101 100
+99 98 100 73
+100 99 101 98 76
+101 68 102 98 100 96 76 97
+102 96 101 68 67
+103 79 77 75 78
+104 33 31 59 46 40

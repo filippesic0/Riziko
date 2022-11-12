@@ -1,0 +1,199 @@
+; map: Canarias.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+[files]
+pic Canarias_pic.png
+map Canarias_map.gif
+crd Canarias.cards
+
+[continents]
+Gran_Canaria 7 #e480ff
+Tenerife 10 #80ffea
+Fuerteventura 4 #ffbc80
+Lanzarote 2 #8380ff
+La_Palma 2 #ffcd80
+La_Gomera 2 #ff80da
+El_Hierro 1 #f680ff
+
+[countries]
+1 Las_Palmas_de_Gran_Canaria 1 779 361
+2 Santa_Brígida 1 747 406
+3 Telde 1 784 426
+4 Valsequillo 1 747 430
+5 San_Mateo 1 723 423
+6 Ingenio 1 784 459
+7 Agüimes 1 779 485
+8 Santa_Lucía 1 757 506
+9 San_Bartolomé_de_Tirajana 1 704 502
+10 Mogán 1 648 505
+11 La_Aldea_de_San_Nicolás 1 618 458
+12 Tejeda 1 672 443
+13 Artenara 1 645 422
+14 Agaete 1 655 391
+15 Valleseco 1 708 405
+16 Teror 1 728 395
+17 Gáldar 1 666 363
+18 Guía 1 685 350
+19 Moya 1 699 371
+20 Firgas 1 717 370
+21 Arucas 1 741 354
+22 Pájara 3 963 531
+23 Tuineje 3 1098 430
+24 Antigua 3 1137 368
+25 Betancuria 3 1083 341
+26 Puerto_del_Rosario 3 1142 297
+27 La_Oliva 3 1152 230
+28 Yaiza 4 1027 186
+29 Tinajo 4 1067 111
+30 Tías 4 1073 159
+31 San_Bartolomé 4 1105 144
+32 Arrecife 4 1138 136
+33 Teguise 4 1141 97
+34 Haría 4 1177 40
+35 La_Graciosa 4 1133 26
+36 Garafía 5 68 54
+37 Barlovento 5 101 53
+38 San_Andrés_y_Sauces 5 125 61
+39 Puntallana 5 136 82
+40 Santa_Cruz_de_la_Palma 5 130 103
+41 Breña_Alta 5 117 121
+42 Braña_Baja 5 128 141
+43 Villa_de_Mazo 5 118 173
+44 Fuencaliente 5 99 210
+45 Los_Llanos_de_Aridane 5 82 173
+46 Tazacorte 5 62 145
+47 Tijarafe 5 55 104
+48 Puntagorda 5 41 75
+49 El_Paso 5 89 104
+50 Frontera 7 88 484
+51 Valverde 7 128 455
+52 El_Pinar 7 94 512
+53 San_Sebastián_de_La_Gomera 6 218 351
+54 Hermigua 6 196 320
+55 Agulo 6 180 307
+56 Vallehermoso 6 155 319
+57 Valle_Gran_Rey 6 142 345
+58 Alajeró 6 185 373
+59 Santa_Cruz_de_Tenerife 2 576 156
+60 La_Laguna 2 554 135
+61 Tegueste 2 531 154
+62 El_Rosario 2 520 213
+63 Candelaria 2 502 228
+64 Arafo 2 486 242
+65 Güimar 2 490 271
+66 Fasnía 2 472 295
+67 Arico 2 466 327
+68 Granadilla 2 432 358
+69 San_Miguel 2 409 390
+70 Arona 2 378 386
+71 Vilaflor 2 389 340
+72 Adeje 2 352 343
+73 Guía_de_Isora 2 333 300
+74 Santiago_del_Teide 2 319 269
+75 Buenavista 2 288 239
+76 El_Tanque 2 318 232
+77 Los_Silos 2 332 247
+78 Garachico 2 348 232
+79 Icod 2 373 241
+80 La_Guancha 2 396 228
+81 San_Juan_de_La_Rambla 2 412 245
+82 Los_Realejos 2 428 227
+83 Puerto_de_La_Cruz 2 446 215
+84 Santa_Úrsula 2 467 217
+85 La_Victoria 2 474 197
+86 La_Matanza 2 495 197
+87 El_Sauzal 2 499 177
+88 Tacoronte 2 520 176
+89 La_Orotava 2 395 291
+
+[borders]
+1 32 22 59 21 16 2 3 14 26
+2 1 5 4 16 3
+3 1 4 6 7 2
+4 5 3 2
+5 15 16 2 4 9 12
+6 7 3
+7 8 6 3
+8 9 7
+9 5 10 8 12
+10 12 11 9
+11 12 13 10
+12 5 15 13 11 10 9
+13 17 14 12 11
+14 59 70 17 13 1
+15 5 16 12 20 19
+16 1 5 2 15 21
+17 18 14 13
+18 19 17
+19 21 20 18 15
+20 21 19 15
+21 1 16 20 19
+22 23 25 32 1 26
+23 24 22
+24 26 25 23
+25 26 24 22
+26 27 24 25 32 22 1
+27 26 28
+28 30 29 27
+29 33 30 31 28
+30 29 28 31
+31 33 30 29 32
+32 33 31 26 22 1
+33 34 29 32 31
+34 33 35
+35 34
+36 37 48 49
+37 36 38 49
+38 37 39 49
+39 38 40 49
+40 39 41 49 59 70 53 57 51
+41 40 42 49
+42 41 43 49
+43 42 44 49
+44 43 45 49
+45 44 46 47 49
+46 45 47
+47 45 46 48 49
+48 47 36 49
+49 47 48 36 37 38 39 40 42 41 43 44 45
+50 52 51
+51 50 52 70 53 57 40
+52 50 51
+53 54 58 70 51 40 57
+54 53 55
+55 56 54
+56 57 55 58
+57 56 51 40 53
+58 56 53
+59 62 60 1 14 40 70
+60 59 88 61
+61 60
+62 63 86 87 88 59
+63 64 85 62
+64 89 84 63 65
+65 89 64 66
+66 67 89 65
+67 68 89 66
+68 69 71 67 89
+69 68 70 71
+70 69 72 71 40 53 51 14 59
+71 69 72 89 70 68
+72 70 71 89 73
+73 72 74 89
+74 73 75 76 77 78 79
+75 74 76
+76 74 75 77
+77 74 76 78
+78 74 77 79
+79 74 78 89 80
+80 79 81 89
+81 80 82 89
+82 81 83 89
+83 82 84 89
+84 83 85 89 64
+85 84 86 63
+86 85 87 62
+87 86 88 62
+88 87 62 60
+89 72 73 79 71 67 68 80 81 82 83 84 66 65 64

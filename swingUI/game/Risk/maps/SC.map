@@ -1,0 +1,114 @@
+; map: SC.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[files]
+pic SC_pic.png
+map SC_map.gif
+crd SC.cards
+
+[continents]
+Beaufort 1 #be80ff
+Charleston 2 #808cff
+Georgetown 2 #e6ff80
+Cheraw 2 #ffcc33
+Camden 5 #990000
+Orangeburg 3 #66ff66
+Ninety-Six 3 #99ffcc
+Piedmont 3 #ff9900
+
+[countries]
+1 Hampton 1 311 317
+2 Jasper 1 329 361
+3 Beaufort 1 372 366
+4 Colleton 2 377 306
+5 Dorchester 2 418 279
+6 Berkeley 2 474 268
+7 Charleston 2 462 320
+8 Georgetown 3 551 231
+9 Williamsburg 3 501 210
+10 Horry 3 597 169
+11 Florence 3 503 155
+12 Marion 3 546 150
+13 Dillon 3 543 104
+14 Marlboro 4 511 81
+15 Darlington 4 471 115
+16 Chesterfield 4 445 76
+17 York 5 306 32
+18 Chester 5 311 71
+19 Fairfield 5 316 112
+20 Richland 5 346 159
+21 Sumter 5 412 173
+22 Lee 5 430 136
+23 Kershaw 5 386 116
+24 Lancaster 5 370 70
+25 Clarendon 5 438 202
+26 Orangeburg 6 348 235
+27 Calhoun 6 366 205
+28 Lexington 6 297 179
+29 Aiken 6 246 217
+30 Barnwell 6 277 255
+31 Allendale 6 288 292
+32 Bamberg 6 324 265
+33 Abbeville 7 138 132
+34 McCormick 7 163 175
+35 Greenwood 7 184 143
+36 Newberry 7 255 123
+37 Laurens 7 199 97
+38 Saluda 7 235 158
+39 Edgefield 7 204 190
+40 Oconee 8 55 59
+41 Pickens 8 105 42
+42 Anderson 8 116 90
+43 Greenville 8 153 42
+44 Spartanburg 8 200 37
+45 Cherokee 8 248 24
+46 Union 8 248 68
+
+[borders]
+1 31 4 2 3
+2 1 3
+3 1 2 4
+4 1 3 7 32 5
+5 4 7 6 26
+6 5 7 8 9 25 26
+7 8 4 5 6
+8 12 10 9 7 6
+9 12 8 6 25 11
+10 13 12 8
+11 14 13 12 9 15 21 22 25
+12 13 10 8 9 11
+13 14 12 11 10
+14 16 15 13 11
+15 16 14 11 22
+16 24 23 15 14
+17 45 18 24 46
+18 17 24 19 46
+19 24 20 18 46 36 23
+20 21 27 28 19 23 36
+21 11 25 22 23 20 27
+22 11 15 21 23
+23 24 16 21 20 22 19
+24 17 18 19 23 16
+25 6 26 9 21 11 27
+26 29 30 5 6 28 27 25 32
+27 26 21 20 28 25
+28 29 26 20 36 38 27
+29 39 30 28 38 26
+30 29 31 32 26
+31 30 32 1
+32 30 31 4 26
+33 42 34 37 35
+34 33 35 39
+35 34 39 37 38 33 36
+36 20 19 28 38 37 46 35
+37 43 44 36 46 33 35
+38 39 29 36 35 28
+39 34 35 38 29
+40 41 42
+41 40 42 43
+42 40 41 43 33
+43 41 42 44 37
+44 43 37 46 45
+45 44 46 17
+46 44 45 17 19 36 18 37

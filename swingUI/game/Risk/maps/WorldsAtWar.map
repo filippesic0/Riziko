@@ -1,0 +1,76 @@
+; map: WorldsAtWar.map
+; map made with the map maker
+; yura.net Risk 1.1.0.1
+
+[files]
+pic WorldsAtWar_pic.png
+map WorldsAtWar_map.gif
+crd WorldsAtWar.cards
+
+[continents]
+Earth 7 #00cc33
+Moon 2 #3366ff
+Mars 5 #ff3300
+AlphaWorld 4 #ff66ff
+RiskGalaxy 6 #ffff66
+Gaea 3 cyan
+
+[countries]
+1 Moon 2 314 209
+2 North-America 1 82 63
+3 South-America 1 112 121
+4 Antartica 1 175 203
+5 Europe 1 177 49
+6 Africa 1 169 89
+7 Asia 1 228 55
+8 Australia 1 279 136
+9 Aethiopis 3 431 118
+10 Ausonia 3 451 173
+11 Memnonia 3 508 163
+12 Cimmerium 3 536 116
+13 Aeolis 3 424 149
+14 Zephyria 3 590 141
+15 Hellas-Planitia 4 99 261
+16 Syrtis-Major 4 90 362
+17 Lacus-Moeris 4 215 361
+18 Sinus-Sabaeus 4 242 268
+19 Aeria 4 182 271
+20 Avalisk 5 422 279
+21 Verdon 5 483 282
+22 Ares 5 584 284
+23 Torentia 5 441 349
+24 Durando 5 501 371
+25 Terraform 5 556 352
+26 Isola 5 379 327
+27 Athea 6 626 178
+28 Bloom 6 648 226
+
+[borders]
+1 8 13
+2 3 5 14
+3 4 6 2
+4 8 6 3 15 18
+5 7 2
+6 7 4 3
+7 8 5 6 9 17
+8 7 4 1
+9 7 13 11 12
+10 13 20 11
+11 9 13 12 14 21 10
+12 9 11 14 25
+13 9 1 10 11
+14 2 11 12 22 27
+15 16 4
+16 15 19 17 25
+17 18 16 7
+18 19 17 4 20
+19 18 16
+20 10 18 23 21
+21 20 11 22 23 25
+22 21 25 14 28
+23 20 21 24 26
+24 25 23
+25 21 16 24 22 12
+26 23
+27 28 14
+28 27 22

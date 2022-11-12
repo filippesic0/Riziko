@@ -1,0 +1,142 @@
+; cards: Italy.cards
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[cards]
+Cannon 1
+Cavalry 2
+Infantry 3
+Cannon 4
+Infantry 5
+Cannon 6
+Cavalry 7
+Infantry 8
+Cannon 9
+Cavalry 10
+Infantry 11
+Cannon 12
+Cavalry 13
+Infantry 14
+Cannon 15
+Infantry 16
+Cannon 17
+Infantry 18
+Cannon 19
+Cavalry 20
+Cavalry 21
+Infantry 22
+Cavalry 23
+Infantry 24
+Cavalry 25
+Infantry 26
+Cavalry 27
+Cavalry 28
+Infantry 29
+Cannon 30
+Cavalry 31
+Infantry 32
+Cannon 33
+Infantry 34
+Cannon 35
+Infantry 36
+Cavalry 37
+Cannon 38
+Cavalry 39
+Infantry 40
+Cavalry 41
+Cannon 42
+Infantry 43
+Cannon 44
+Cavalry 45
+Infantry 46
+Cannon 47
+Cavalry 48
+Cannon 49
+Infantry 50
+Cannon 51
+Cavalry 52
+Infantry 53
+Cannon 54
+Cavalry 55
+Infantry 56
+Cannon 57
+Cavalry 58
+Infantry 59
+Cannon 60
+Cavalry 61
+Infantry 62
+Cannon 63
+Cavalry 64
+Infantry 65
+Cannon 66
+Cavalry 67
+Infantry 68
+Cannon 69
+Cavalry 70
+Infantry 71
+Cannon 72
+Cavalry 73
+Infantry 74
+Cannon 75
+Cavalry 76
+Infantry 77
+Cannon 78
+Cavalry 79
+Infantry 80
+Cannon 81
+Cavalry 82
+Infantry 83
+Cannon 84
+Cavalry 85
+Infantry 86
+Cannon 87
+Cavalry 88
+Infantry 89
+Cannon 90
+Cavalry 91
+Infantry 92
+Cannon 93
+Cavalry 94
+Infantry 95
+Cannon 96
+Cavalry 97
+Infantry 98
+Cannon 99
+Cavalry 100
+Infantry 101
+Cannon 102
+Cavalry 103
+Infantry 104
+Cannon 105
+Cavalry 106
+Infantry 107
+Cannon 108
+Cavalry 109
+Infantry 110
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+
+; destroy x occupy x x continents x x x
+; destroy (Player) occupy (int int) continents (Continent Continent Continent)
+[missions]
+0	0 3	1 2 9	Valle d'Aosta, Piemonte, Liguria; 3 armies
+0	0 0	15 20 0	Lombardia, Emilia-Romagna
+0	0 0	10 4 3	Veneto, Friuli, Trentino
+0	0 0	14 20 8	Toscana, Emilia-Romagna, Umbria
+0	0 0	11 5 8	Lazio, Abruzzo, Umbria
+0	0 0	6 5 18	Molise, Abruzzo, Campania
+0	0 0	12 7 13	Calabria, Basilicata, Puglia
+0	0 0	16 12 7	Sicilia, Calabria, Basilicata
+0	0 0	17 14 0	Sardegna, Toscana
+0	0 0	16 17 18	Sicilia, Sardegna, Campania
+0	0 0	14 19 20	Toscana, Marche, Emilia-Romagna
+0	0 0	6 5 19	Molise, Abruzzo, Marche
+0	0 0	11 18 7	Lazio, Campania, Basilicata
+0	0 0	13 18 6	Puglia, Campania, Molise
+0	0 0	4 3 15	Friuli, Trentino, Lombardia
+0	0 0	9 2 17	Piemonte, Liguria, Sardegna
+0	0 0	11 5 19	Lazio, Abruzzo, Marche
+0	0 0	12 16 18	Calabria, Sicilia, Campania

@@ -1,0 +1,69 @@
+; map: A-Town.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+circle 30
+
+[files]
+pic A-Town_pic.png
+map A-Town_map.gif
+crd A-Town.cards
+
+[continents]
+Sport 4 #33ff00
+Schulen 5 #990099
+Kernstadt 7 red
+Die_Erlen 4 #80ffe5
+Einkaufen 4 #ffcc00
+
+[countries]
+1 Erlenstadion 1 1111 556
+2 Lindensportplatz 1 663 607
+3 Jahnsporthalle 1 607 637
+4 Groﬂsporthalle 1 922 628
+5 Erlenbad 4 961 649
+6 Gerhart-Hauptmann-Schule 2 765 36
+7 ASS_Sek_I 2 479 562
+8 ASS_Sek_II 2 570 848
+9 Max-Eyth-Schule 2 607 851
+10 Geschwister-Scholl-Schule 2 545 565
+11 Erlenteich 4 854 702
+12 Erlenwiese 4 933 752
+13 Erlenreha 4 778 722
+14 Kernstadt 3 773 340
+15 Marktplatz 3 707 304
+16 Walpurgiskirche 3 743 258
+17 Rathaus 3 744 295
+18 Weinhaus 3 703 269
+19 Hochzeitshaus 3 708 339
+20 Augustiner_Kloster 3 669 380
+21 Herkules 5 542 166
+22 AEZ 5 1027 321
+23 Neues_Einkaufszentrum 5 1008 128
+24 HAFU 5 370 818
+
+[borders]
+1 22 12
+2 10 3 14 13 5
+3 10 2
+4 5 22 14
+5 4 11 2
+6 21 23
+7 10 21
+8 24 9
+9 8 13
+10 7 3 2 24
+11 5 13 12
+12 1 11
+13 11 2 9
+14 20 19 15 17 18 16 21 22 2 4
+15 14 19 17 18
+16 14 18 17
+17 14 15 16 18
+18 14 15 16 17
+19 14 15
+20 14
+21 6 7 14
+22 1 4 23 14
+23 6 22
+24 8 10

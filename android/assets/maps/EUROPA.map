@@ -1,0 +1,230 @@
+; map: EUROPA.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+circle 25
+
+[files]
+pic EUROPA_pic.png
+map EUROPA_map.gif
+crd EUROPA.cards
+
+[continents]
+África 1 #ffc480
+España 2 #ff9480
+Portugal 1 #808aff
+Francia 2 #8096ff
+Italia 2 #85ff80
+Alemania 1 #ff8081
+Reino_Unido 1 #80c6ff
+Irlanda 1 #80d1ff
+Islandia 0 #8095ff
+Países_Nórdicos 1 #ff80cd
+Bélgica 0 #80b5ff
+Países_Bajos 2 #85ff80
+Polonia 1 #ff80d6
+Países_Bálticos 1 #80ffba
+Centroeuropa 3 #80c6ff
+Rusia 2 #ff80c0
+Países_Balcánicos 2 #ff80bc
+Grecia 1 #ffdb80
+Turquía 2 #ff8083
+Chipre 0 #8880ff
+Países_del_Este 1 #e7ff80
+Arabia 2 #80ffde
+
+[countries]
+1 Marruecos 1 69 914
+2 Argelia 1 261 916
+3 Túnez 1 397 910
+4 Islas_Canarias 2 28 859
+5 Sur_de_España 2 103 825
+6 Costa_Mediterránea 2 197 783
+7 Islas_Baleares 2 274 807
+8 Andorra 2 258 725
+9 Madrid 2 145 762
+10 Norte_de_España 2 131 677
+11 Algarve 3 37 802
+12 Lisboa 3 39 738
+13 Oporto 3 61 696
+14 Burdeos 4 235 651
+15 Marsella 4 309 709
+16 París 4 288 589
+17 Nancy 4 358 604
+18 Normandía 4 255 540
+19 Mónaco 4 366 721
+20 Dortmund 6 421 499
+21 Berlín 6 493 497
+22 Hannover 6 451 550
+23 Stuttgart 6 425 585
+24 Munich 6 468 596
+25 Islas_Italianas 5 392 804
+26 Roma 5 475 747
+27 Vaticano 5 467 775
+28 Nápoles 5 539 830
+29 Palermo 5 482 883
+30 Milán 5 443 687
+31 Inglaterra 7 279 478
+32 Gales 7 281 387
+33 Escocia 7 274 321
+34 Irlanda_del_Norte 7 209 383
+35 Dublín 8 196 416
+36 Irlanda_del_Sur 8 152 428
+37 Noruega 10 460 275
+38 Suecia 10 529 351
+39 Finlandia 10 652 260
+40 Dinamarca 10 457 387
+41 Brujas 11 337 509
+42 Bruselas 11 362 535
+43 Luxemburgo 11 377 561
+44 Amsterdam 12 380 490
+45 Eindhoven 12 378 510
+46 Gdansk 13 554 493
+47 Varsovia 13 619 504
+48 Cracovia 13 627 579
+49 Lituania 14 665 447
+50 Letonia 14 676 386
+51 Estonia 14 674 330
+52 Reykjavic 9 184 105
+53 Sydralon 9 243 76
+54 Bielorrusia 15 723 473
+55 Ucrania 15 787 569
+56 Moldavia 15 769 646
+57 Rumanía 15 701 694
+58 Hungría 15 587 660
+59 Eslovaquia 15 582 614
+60 Bulgaria 15 706 754
+61 República_Checa 15 525 588
+62 Austria 15 510 632
+63 Eslovenia 15 510 682
+64 Suiza 15 395 636
+65 Siberia 16 981 136
+66 San_Petesburgo 16 735 290
+67 Moscú 16 825 365
+68 Kazan 16 1072 368
+69 Bryansk 16 846 492
+70 Kazajistán 16 1106 516
+71 Rostov 16 947 626
+72 Croacia 17 552 688
+73 Bosnia 17 570 732
+74 Serbia 17 625 739
+75 Montenegro 17 592 763
+76 Kosovo 17 633 774
+77 Albania 17 608 801
+78 Macedonia 17 647 792
+79 Tesalónica 18 688 815
+80 Atenas 18 672 863
+81 Islas_Griegas 18 735 948
+82 Estambul 19 797 809
+83 Ankara 19 881 807
+84 Izmir 19 777 900
+85 Adana 19 937 853
+86 Samsun 19 965 771
+87 Ercis 19 1067 817
+88 Limassol 20 888 945
+89 Nicosia 20 917 936
+90 Georgia 21 1037 712
+91 Armenia 21 1083 738
+92 Azerbaiyán 21 1125 734
+93 Irán 22 1139 818
+94 Irak 22 1092 919
+95 Siria 22 1009 906
+96 Líbano 22 957 949
+
+[borders]
+1 4 5 2
+2 1 3
+3 25 29 2
+4 1 5
+5 1 11 4 6 9 12 10
+6 7 5 9 8 10 15
+7 25 6
+8 6 15
+9 5 10 6
+10 12 9 13 14 6 5
+11 5 12
+12 10 13 5 11
+13 12 10
+14 10 15 16 18
+15 8 14 16 19 64 17 30 6
+16 14 18 17 15
+17 16 64 43 42 41 15 23 20 18
+18 14 16 41 31 17
+19 15 30
+20 17 42 43 45 44 23 22 21 40
+21 20 61 46 22 40
+22 20 21 61 23 24
+23 64 17 20 22 24
+24 64 22 23 61 62
+25 3 7 26
+26 30 28 27 25
+27 26
+28 77 26 29
+29 3 28
+30 19 64 62 63 26 15
+31 18 44 35 32
+32 31 34 33
+33 32 52
+34 35 32 52
+35 36 34 31
+36 35
+37 53 38 39 66
+38 37 40 39
+39 38 37 66
+40 20 21 38
+41 17 18 45 44 42
+42 17 41 20 45 43
+43 17 42 20
+44 41 45 31 20
+45 41 42 44 20
+46 21 47 61
+47 49 54 55 48 61 46
+48 55 47 61 59
+49 50 47 54
+50 51 54 49 67
+51 66 67 50
+52 33 34 53
+53 52 37
+54 50 49 67 47 69 55
+55 71 69 54 47 48 59 58 57 56
+56 55 57
+57 55 58 56 60 74
+58 62 55 59 57 74 72 63
+59 62 55 61 58 48
+60 57 82 79 78 74
+61 21 22 24 62 47 46 59 48
+62 64 30 24 63 58 59 61
+63 30 62 58 72
+64 17 23 24 62 30 15
+65 66 68 67
+66 39 65 67 51 37
+67 66 68 51 50 69 65 54
+68 65 67 69 70 71
+69 68 67 54 71 55
+70 68 71
+71 68 69 55 70 90 92
+72 58 63 73 74
+73 72 75 74
+74 58 72 57 60 73 76 75
+75 73 76 77 74
+76 75 74 78 77
+77 76 75 78 79 28
+78 60 76 77 79
+79 60 77 78 82 80
+80 79 81
+81 80 84
+82 60 79 84 83
+83 84 82 85 86
+84 81 82 83 85 88
+85 84 83 95 87 86
+86 83 85 87
+87 85 90 91 93 94 95 86
+88 84 89
+89 88 96
+90 71 87 91 92
+91 87 93 92 90
+92 71 93 91 90
+93 87 91 92 94
+94 87 95 93
+95 85 87 96 94
+96 89 95

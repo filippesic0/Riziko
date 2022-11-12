@@ -1,0 +1,50 @@
+﻿; 1.1.0.7+ (UTF-8)
+; map: Bach-korszak.map
+; Made with yura.net Domination 1.1.1.4
+; OS: Windows XP 5.1 Szervizcsomag 2 (32bit) on x86
+
+[files]
+pic Bach-korszak_pic.jpg
+map Bach-korszak_map.gif
+crd Bach-korszak.cards
+
+[continents]
+Határőrvidék 1 #ffff66
+Szerb_Vajdaság_és_Temesi_Bánság 1 #339900
+Horvát-Szlavónország 1 #009999
+Az_Öt_Kerület 2 white
+Erdély 1 #cc00ff
+
+[countries]
+1 Partvidék 1 30 145
+2 Bosnyák 1 90 143
+3 Szerb 1 152 153
+4 Szerb_Vajdaság 2 121 124
+5 Bánát 2 155 130
+6 Horvátország 3 42 116
+7 Pozsony 4 104 38
+8 Kassa 4 168 34
+9 Sopron 4 71 82
+10 Budapest 4 123 78
+11 Várad 4 170 89
+12 Észak-Erdély 5 229 86
+13 Dél-Erdély 5 209 121
+14 Székelyföld 5 257 123
+15 Szlavónia 3 93 131
+
+[borders]
+1 6 15 2
+2 15 1 3 6
+3 2 5 4 13
+4 15 3 5 10 9
+5 3 4 11 10 13
+6 1 9 2
+7 9 10 8
+8 7 11 12 10
+9 15 4 6 7 10
+10 4 5 7 8 9 11
+11 5 8 10 12 13
+12 8 11 13 14
+13 3 5 11 12 14
+14 13 12
+15 4 2 9 1

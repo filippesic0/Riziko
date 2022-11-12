@@ -1,0 +1,77 @@
+; map: AlphaWord.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+circle 25
+
+[files]
+pic AlphaWord_pic.png
+map AlphaWord_map.gif
+crd AlphaWord.cards
+
+[continents]
+Athensa 2 #6600ff
+Tulina 1 #ff9933
+Parthos 3 #009900
+Balcan 5 #ff6666
+Kanchiru 3 #ffff66
+
+[countries]
+1 Tulina_Novo 2 367 113
+2 Creta 1 138 166
+3 Alexandra 5 483 109
+4 Masedova 1 185 76
+5 Grechi 1 246 134
+6 Roma 1 149 92
+7 Egiptsi 5 533 142
+8 Italvo 1 82 79
+9 Areba 5 561 79
+10 Cubo 5 392 29
+11 Turkanzi 5 480 45
+12 Indi 5 616 87
+13 Equato 3 299 207
+14 York 3 199 235
+15 Scottand 3 199 311
+16 Irelen 3 139 319
+17 Bostom 3 240 271
+18 Yunke 3 266 322
+19 Texas 4 377 372
+20 Louisina 4 532 297
+21 Alberte 4 562 261
+22 Maine 4 625 168
+23 Calif 4 491 339
+24 Deseret 4 445 308
+25 Colorad 4 392 299
+26 Vancov 4 419 237
+27 Alask 4 594 218
+28 Quebeg 4 526 247
+
+[borders]
+1 3 13
+2 5 6 14
+3 1 9 7 11
+4 5 6
+5 2 4
+6 2 4 8
+7 9 3 28 22
+8 6 12
+9 3 7 12 11
+10 11
+11 9 10 3
+12 9 8
+13 17 1
+14 15 17 2
+15 18 17 14 16
+16 15
+17 18 15 14 13 25
+18 17 15 19
+19 25 18 24 23
+20 23 24 28 21
+21 20 28 27
+22 27 7
+23 19 24 20
+24 25 19 23 28 20
+25 19 24 26 17
+26 25
+27 21 28 22
+28 24 20 21 27 7

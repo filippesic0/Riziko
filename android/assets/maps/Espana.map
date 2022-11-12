@@ -1,0 +1,124 @@
+; map: Espana.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+name España
+
+[files]
+pic Espana_pic.png
+map Espana_map.gif
+crd Espana.cards
+
+[continents]
+Norte_peninsular 3 #ff80c8
+Andalucía 3 #ffe680
+Aragón_-_Cataluña 3 #ff809d
+La_Mancha 3 #88ff80
+Castilla&León 3 #80a4ff
+Madrid 1 #ff80af
+
+[countries]
+1 Orense 1 202 97
+2 Pontevedra 1 161 83
+3 La_Coruña 1 173 51
+4 Lugo 1 211 55
+5 Asturias 1 261 45
+6 Cantabria 1 334 54
+7 Vizcaya 1 382 52
+8 Guipúzcoa 1 406 53
+9 Álava 1 393 72
+10 La_Rioja 1 396 95
+11 Huesca 3 488 96
+12 Zaragoza 3 453 124
+13 Teruel 3 460 168
+14 Lérida 3 532 104
+15 Tarragona 3 520 145
+16 Barcelona 3 565 118
+17 Gerona 3 597 100
+18 Castellón 3 491 180
+19 Valencia 3 471 216
+20 Alicante 3 474 258
+21 Islas_Baleares 3 615 201
+22 Madrid 6 349 173
+23 León 5 267 80
+24 Palencia 5 316 87
+25 Burgos 5 355 96
+26 Soria 5 392 124
+27 Valladolid 5 305 124
+28 Segovia 5 330 142
+29 Zamora 5 261 119
+30 Salamanca 5 257 158
+31 Ávila 5 303 165
+32 Guadalajara 4 386 154
+33 Cuenca 4 407 198
+34 Toledo 4 329 201
+35 Ciudad_Real 4 346 244
+36 Albacete 4 419 246
+37 Murcia 4 442 282
+38 Cáceres 4 250 209
+39 Badajoz 4 244 254
+40 Huelva 2 221 296
+41 Sevilla 2 262 307
+42 Córdoba 2 306 283
+43 Jaén 2 351 287
+44 Granada 2 357 319
+45 Almería 2 407 317
+46 Málaga 2 308 330
+47 Cádiz 2 261 346
+48 Ceuta 2 280 381
+49 Melilla 2 385 398
+50 Islas_Canarias 2 129 401
+51 Navarra 1 426 78
+
+[borders]
+1 4 23
+2 3 4
+3 2 4
+4 3 2 1 23 5
+5 4 6
+6 5 7
+7 6 8 9
+8 7 51 9
+9 7 51 8 10
+10 51 9 25
+11 12 14
+12 51 13 11 15
+13 12 32 33 18
+14 11 15 16
+15 12 14 16 18
+16 14 17 15
+17 16
+18 13 15 19
+19 18 20 21
+20 19 37
+21 19
+22 31 32 34 33
+23 4 1 24 29
+24 23 27 25
+25 10 27 28 26 24
+26 25 32
+27 30 29 24 25 28 31
+28 27 31 25
+29 23 30 27
+30 29 31 27
+31 30 27 28 22
+32 26 13 22 33
+33 13 32 34 22 36
+34 22 38 35 33
+35 34 36
+36 35 33 37
+37 20 36 45
+38 34 39
+39 38 40 41 42
+40 39 41 47
+41 39 40 47 46 42
+42 39 41 43 44 46
+43 42 44
+44 42 43 45 46
+45 37 44
+46 41 42 44 47 49
+47 41 46 40 50 48
+48 47
+49 46
+50 47
+51 8 9 10 12

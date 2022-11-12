@@ -1,0 +1,155 @@
+; map: Pennsylvania.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[files]
+pic Pennsylvania_pic.png
+map Pennsylvania_map.gif
+crd Pennsylvania.cards
+
+[continents]
+Erie_Region 2 #333300
+Pittsburgh_Region 3 #663300
+Pennsylvania_Wilds 5 #00ffcc
+Alleghenies_&_Susquehanna_Valley 6 #999900
+Pennsylvania_Dutch_Country 3 #ffccff
+Poconos_&_Endless_Mountains 3 #336600
+Philadelphia_Region 2 #999999
+
+[countries]
+1 Erie 1 61 61
+2 Crawford 1 30 101
+3 Mercer 1 38 165
+4 Venango 1 95 153
+5 Lawrence 2 27 213
+6 Butler 2 76 214
+7 Armstrong 2 128 256
+8 Beaver 2 24 260
+9 Allegheny 2 64 296
+10 Indiana 2 168 273
+11 Westmoreland 2 124 326
+12 Washington 2 32 337
+13 Greene 2 33 389
+14 Fayette 2 100 383
+15 Somerset 2 175 378
+16 Warren 3 152 91
+17 McKean 3 203 104
+18 Potter 3 315 128
+19 Tioga 3 377 101
+20 Forest 3 153 134
+21 Elk 3 218 149
+22 Cameron 3 281 154
+23 Clinton 3 333 181
+24 Lycoming 3 403 170
+25 Clarion 3 132 190
+26 Jefferson 3 181 202
+27 Clearfield 3 238 218
+28 Centre 3 311 231
+29 Cambria 4 209 296
+30 Blair 4 255 297
+31 Huntingdon 4 292 311
+32 Mifflin 4 344 270
+33 Juniata 4 371 285
+34 Union 4 404 226
+35 Snyder 4 402 256
+36 Northumberland 4 450 246
+37 Montour 4 448 215
+38 Columbia 4 478 215
+39 Schuylkill 4 503 265
+40 Bedford 4 236 377
+41 Fulton 4 283 386
+42 Franklin 5 325 386
+43 Perry 5 382 313
+44 Dauphin 5 431 306
+45 Lebanon 5 470 317
+46 Lancaster 5 503 367
+47 Cumberland 5 383 345
+48 Adams 5 367 389
+49 York 5 470 400
+50 Bradford 6 464 100
+51 Susquehanna 6 547 81
+52 Wayne 6 610 107
+53 Sullivan 6 467 152
+54 Wyoming 6 517 150
+55 Lackawanna 6 569 155
+56 Luzerne 6 528 192
+57 Pike 6 636 167
+58 Carbon 6 555 238
+59 Monroe 6 600 209
+60 Berks 7 524 321
+61 Lehigh 7 571 279
+62 Northampton 7 600 258
+63 Montgomery 7 602 343
+64 Bucks 7 628 322
+65 Chester 7 556 376
+66 Delaware 7 597 387
+67 Philadelphia 7 629 377
+
+[borders]
+1 2 16
+2 1 3 4 16
+3 2 4 5 6
+4 2 3 20 25 6 16
+5 3 8 6
+6 3 5 8 9 7 4 25
+7 6 25 11 10 26
+8 5 6 9 12
+9 8 12 11 6
+10 7 11 27 29
+11 12 9 7 14 15 29 10
+12 8 9 13 14 11
+13 12 14
+14 12 11 15 13
+15 11 40 29 14
+16 1 2 20 17 4
+17 16 21 18 22
+18 17 22 19 23 24
+19 18 24 50
+20 16 4 25 21 26
+21 20 17 26 27 22
+22 17 21 18 23 27
+23 22 24 28 34 18 27
+24 19 23 34 36 37 38 53 50 18
+25 7 20 4 6 26
+26 7 20 21 27 25
+27 21 28 29 10 26 22 23 30
+28 23 27 30 31 32 34
+29 11 15 40 27 30 10
+30 40 28 29 27
+31 40 42 28 32 33
+32 28 35 33 31 34
+33 35 32 31 43 42 36
+34 24 28 36 35 23 32
+35 34 36 32 33
+36 24 38 34 35 44 33 39
+37 24 38
+38 24 56 39 37 36 53
+39 58 38 44 60 61 45 36 56
+40 15 41 31 30 29
+41 40 42
+42 41 31 33 47 48
+43 33 44 47
+44 36 39 45 49 46 47 43
+45 44 39 60 46
+46 44 60 65 49 45
+47 44 49 43 48 42
+48 49 47 42
+49 44 46 48 47
+50 19 24 51 54 53
+51 50 52 55 54
+52 51 57 55 59
+53 24 50 54 38 56
+54 50 55 51 53 56
+55 52 54 51 59 56
+56 54 38 58 59 55 53 39
+57 52 59
+58 56 59 39 61 62
+59 55 56 57 58 62 52
+60 39 45 46 65 63 61
+61 58 39 60 62 64 63
+62 59 58 61 64
+63 60 61 64 67 66 65
+64 61 62 63 67
+65 60 66 46 63
+66 67 63 65
+67 64 63 66

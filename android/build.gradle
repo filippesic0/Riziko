@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'com.google.gms.google-services'
+
+dependencies {
+    implementation rootProject
+    implementation project(':AndroidME')
+    implementation fileTree(include: '*.jar', dir: 'libs')
+    implementation 'androidx.annotation:annotation:1.2.0'
+    implementation 'androidx.core:core:1.3.2' // for FileProvider
+    implementation 'com.google.android.gms:play-services-auth:19.0.0'
+    implementation 'com.google.android.gms:play-services-games:20.0.0'
+    implementation 'com.google.android.play:core:1.10.0'
+    implementation 'com.google.firebase:firebase-messaging:21.0.1'
+}
+
+android {
+    compileOptions.encoding = 'cp1252'
+    compileSdkVersion 28
+    buildToolsVersion '28.0.3'
+    // this to to avoid error from httpcore-4.1.2.jar and httpcore-4.1.2.jar having the same file
+    packagingOptions {
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE.txt'
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = []
+            res.srcDirs = ['res', '../sharedUI/img_mini_game_ui', '../sharedUI/img_mapstore_lobby']
+            assets.srcDirs = ['assets']
+        }
+    }
+    // this is to avoid the @TargetApi missing on methods giving errors.
+    lintOptions {
+        abortOnError false
+    }
+    defaultConfig {
+        minSdkVersion 4
+    }
+}
+
+// same as ant tasks "setup.android"
+task copyAssets(type: Copy) {
+    from('../swingUI/game/Domination') {
+        include 'maps/**'
+        include 'help/**'
+    }
+    from('../src/META-INF') {
+        include 'services/**'
+    }
+    from '../gpl.txt'
+    from '../ChangeLog.txt'
+    into 'assets'
+}
+project.preBuild.dependsOn(copyAssets)

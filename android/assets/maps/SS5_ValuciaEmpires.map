@@ -1,0 +1,131 @@
+; map: SS5_ValuciaEmpires.map
+; Made with yura.net Domination 1.1.1.0
+; OS: Mac OS X 10.6.8 unknown (64bit) on x86_64
+
+circle 15
+ver 2
+
+[files]
+pic SS5_ValuciaEmpires_pic.jpg
+map SS5_ValuciaEmpires_map.gif
+crd SS5_ValuciaEmpires.cards
+
+[continents]
+Ships_circles 0 #be80ff
+Spaceships 4 #ffa580
+Bases 4 #fff680
+Hirio 3 #666600
+Zixion 3 #990066
+Ruxian 2 #66ff00
+Kofax 2 #003399
+Arzemis 5 white
+
+[countries]
+1 Spaceships-Hirio 2 8 360
+2 Spaceships-Arzemis 2 7 332
+3 Spaceships-Zixion 2 103 336
+4 Spaceships-Ruxian 2 104 365
+5 Spaceships-Kofax 2 8 390
+6 Base_1 3 662 100
+7 Base_2 3 662 72
+8 Base_3 3 662 53
+9 Base_4 3 590 89
+10 Base_5 3 588 71
+11 Base_6 3 588 52
+12 Arzemis_Empire 8 401 282
+13 Zixion_Empire 5 180 271
+14 Hirio_Empire 4 177 58
+15 Ruxian_Empire 6 553 160
+16 Kofax_Empire 7 560 394
+17 Ships_circles-Arzemis_1 1 324 253
+18 Ships_circles-Arzemis_2 1 350 253
+19 Ships_circles-Arzemis_3 1 375 253
+20 Ships_circles-Arzemis_4 1 400 253
+21 Arzemis_territory_1 8 343 151
+22 Arzemis_territory_2 8 238 240
+23 Arzemis_territory_3 8 388 326
+24 Arzemis_territory_4 8 292 242
+25 Arzemis_territory_5 8 394 168
+26 Arzemis_territory_6 8 481 136
+27 Arzemis_territory_7 8 457 190
+28 Arzemis_territory_8 8 488 252
+29 Zixion_territory_1 5 68 246
+30 Zixion_territory_2 5 89 246
+31 Zixion_territory_3 5 111 246
+32 Ships_circles-Zixion_1 1 226 310
+33 Ships_circles-Zixion_2 1 251 311
+34 Ships_circles-Zixion_3 1 277 310
+35 Hirio_territory_1 4 89 85
+36 Hirio_territory_2 4 111 85
+37 Hirio_territory_3 4 133 85
+38 Hirio_territory_4 4 155 85
+39 Ships_circles-Hirio_1 1 245 208
+40 Ships_circles-Hirio_2 1 271 208
+41 Ships_circles-Hirio_3 1 297 209
+42 Ruxian_territory_1 6 588 201
+43 Ruxian_territory_2 6 610 200
+44 Ruxian_territory_3 6 634 201
+45 Ruxian_territory_4 6 653 200
+46 Ships_circles-Ruxian_1 1 428 144
+47 Ships_circles-Ruxian_2 1 453 144
+48 Kofax_territory_1 7 610 369
+49 Kofax_territory_2 7 632 370
+50 Kofax_territory_3 7 653 369
+51 Ships_circles-Kofax_1 1 446 345
+52 Ships_circles-Kofax_2 1 472 346
+53 Ships_circles-Kofax_3 1 496 347
+
+[borders]
+1 39 40 41
+2 17 18 19 20
+3 32 33 34
+4 51 52 53
+5 46 47
+6 2 1 5 3 4 12 13 14 15 16
+7 2 1 5 3 4 12 13 14 15 16
+8 3 4 2 1 5 12 13 14 15 16
+9 2 1 5 3 4 12 13 14 15 16
+10 2 1 5 3 4 12 13 14 15 16
+11 2 1 5 3 4 12 13 14 15 16
+12 11 10 9 8 7 6 17 18 19 20 21 22 24 25 26 27 28 23
+13 11 10 9 8 7 6 29 30 31 32 33 34
+14 11 10 9 8 7 6 35 36 37 38 39 40 41
+15 11 10 9 8 7 6 42 43 44 45 47 46
+16 11 10 9 8 7 6 49 48 50 53 52 51
+17 18 19 20 22 24 21 25 26 27 28 23 33 32 34 39 40 41 46 47 51 52 53
+18 17 19 20 24 22 21 25 26 27 28 23 33 32 34 39 40 41 46 47 51 52 53
+19 17 18 20 23 24 22 21 25 26 27 28 33 32 34 39 40 41 46 47 51 52 53
+20 19 18 17 22 24 23 28 27 26 25 21 33 32 34 39 40 41 46 47 51 52 53
+21 12 22 25 26 35
+22 21 12 24 23 31 35 36 25
+23 25 24 27 22 28 31 48 50 12
+24 25 22 12 23
+25 21 26 24 23 27 12 22
+26 25 21 27 12 44
+27 25 26 23 12 28 44
+28 23 27 12 44 43 50
+29 13 30 38 48 49
+30 29 13 31 38 48
+31 30 13 23 22 37 48
+32 29 30 31 33 17 18 19 20 34 39 40 41 46 47 51 52 53
+33 32 17 18 19 20 29 30 31 34 39 40 41 46 47 51 52 53
+34 33 32 17 18 19 20 29 30 31 39 40 41 46 47 51 52 53
+35 14 36 37 21 22 44
+36 35 14 37 38 22 42 45
+37 36 35 14 38 31
+38 37 36 14 30 29 45
+39 32 33 34 17 18 19 20 35 36 37 38 40 41 46 47 51 52 53
+40 39 32 33 34 17 18 19 20 35 36 37 38 41 46 47 51 52 53
+41 39 40 32 33 34 17 18 19 20 35 36 37 38 46 47 51 52 53
+42 15 43 44 45 36 50
+43 42 15 44 28
+44 43 42 15 35 26 27 28
+45 42 15 38 36 50
+46 39 40 41 32 33 34 17 18 19 20 42 43 44 45 47 51 52 53
+47 46 42 43 44 45 39 40 41 32 33 34 17 18 19 20 51 52 53
+48 30 29 31 23 49 16 50
+49 48 16 29 50
+50 49 16 42 45 23 28 48
+51 32 33 34 39 40 41 17 18 19 20 46 47 48 49 50 52 53
+52 51 32 33 34 39 40 41 17 18 19 20 46 47 48 49 50 53
+53 51 52 32 33 34 39 40 41 17 18 19 20 46 47 48 49 50

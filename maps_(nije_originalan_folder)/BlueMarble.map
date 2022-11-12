@@ -1,0 +1,96 @@
+; map: BlueMarble.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+name Blue Marble
+circle 30
+ver 2
+
+[files]
+pic BlueMarble_pic.png
+map BlueMarble_map.gif
+crd BlueMarble.cards
+
+[continents]
+North-America 4 blue
+South-America 3 red
+Europe 4 orange
+Africa 5 #d680ff
+Asia 7 pink
+Oceania 3 red
+
+[countries]
+1 Alaska 1 58 60
+2 Canada 1 122 60
+3 Greenland 1 186 60
+4 West-USA 1 78 124
+5 East-USA 1 142 124
+6 Central-America 1 100 188
+7 Venezuela 2 122 252
+8 Brazil 2 186 252
+9 Peru 2 122 316
+10 Argentina 2 186 316
+11 Euro-Islands 3 248 60
+12 Scandinavia 3 314 60
+13 Russia 3 378 60
+14 Spain 3 248 124
+15 Central-Europe 3 314 124
+16 Turkey 3 378 124
+17 Sahara 4 248 188
+18 North-Africa 4 314 188
+19 Egypt 4 378 188
+20 Congo 4 314 252
+21 Kilamanjaro 4 378 252
+22 South-Africa 4 314 316
+23 Madagascar 4 378 316
+24 Siberia 5 442 60
+25 Yakutsk 5 510 60
+26 Kamchatka 5 574 60
+27 Kazakhstan 5 442 124
+28 Mongolia 5 510 124
+29 China 5 574 124
+30 Middle-East 5 441 188
+31 India 5 510 188
+32 Siam 5 574 188
+33 Indonesia 6 528 252
+34 New-Guinea 6 592 252
+35 Western-Australia 6 528 316
+36 Eastern-Australia 6 592 316
+
+[borders]
+1 2 4 26
+2 1 3 4 5
+3 2 5 11
+4 1 2 5 6
+5 2 3 4 6
+6 4 5 7
+7 6 8 9 10
+8 7 9 10 17
+9 7 8 9 10
+10 9 8 7
+11 3 12 14 15
+12 11 13 14 15 16
+13 12 15 16 24
+14 11 12 15 17
+15 11 12 13 14 16 18
+16 12 13 15 27 19
+17 8 14 18 20
+18 15 17 19 20 21
+19 16 18 20 21 30
+20 17 18 19 21 22 23
+21 18 19 20 22 23
+22 20 21 23
+23 21 22 20
+24 13 25 27 28
+25 24 26 27 28 29
+26 1 25 28 29
+27 16 24 25 28 30 31
+28 24 25 26 27 29 30 31 32
+29 25 26 28 31 32
+30 19 27 28 31
+31 27 28 29 30 32 33
+32 28 29 31 33 34
+33 31 32 34 35 36
+34 32 33 35 36
+35 33 34 36
+36 33 34 35

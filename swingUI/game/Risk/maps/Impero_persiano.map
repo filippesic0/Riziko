@@ -1,0 +1,104 @@
+; map: Impero_persiano.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[files]
+pic Impero_persiano_pic.png
+map Impero_persiano_map.gif
+crd Impero_persiano.cards
+
+[continents]
+Sud 2 #ffe780
+Roma_e_Grecia 1 #80acff
+Anatolia 3 #ff9180
+Persia 3 #80b2ff
+Nord_est 1 #80ffa8
+Sud-est 2 #80a6ff
+
+[countries]
+1 Roma 2 31 38
+2 Grecia 2 88 109
+3 Macedonia 2 105 69
+4 Tracia 2 141 57
+5 Creta_e_Cipro 2 124 172
+6 Egitto 1 150 261
+7 Cirenaica 1 40 237
+8 Nubia 1 148 361
+9 Palestina 1 213 235
+10 Siria 1 235 195
+11 Babilonia 1 315 241
+12 Fenicia 1 238 169
+13 Assiria 1 279 173
+14 Troade 3 162 94
+15 Misia 3 151 126
+16 Lidia 3 153 111
+17 Caria 3 160 140
+18 Licia 3 188 147
+19 Cilicia 3 217 144
+20 Armenia 3 264 145
+21 Colchide 3 314 112
+22 Cappadocia 3 221 108
+23 Frigia 3 191 95
+24 Media 4 327 162
+25 Elam 4 373 225
+26 Perside 4 403 258
+27 Sagartha 4 397 193
+28 Ircania 4 403 160
+29 Carmaria 4 450 268
+30 Dramgiana 4 466 223
+31 Partia 4 460 168
+32 Margiana 4 455 135
+33 Aria 6 528 165
+34 Sattagudia 6 554 203
+35 Aracosia 6 538 237
+36 Gedrosia 6 497 292
+37 India 6 599 277
+38 Gandaria 6 584 161
+39 Battriana 5 540 125
+40 Chorasmia 5 448 84
+41 Saci 5 616 120
+42 Sogdiana 5 542 67
+
+[borders]
+1 2 7
+2 1 7 3 5
+3 2 4
+4 3 14
+5 2 7 6 12
+6 9 5 7 8
+7 2 1 5 6
+8 6
+9 10 6
+10 12 13 9 11
+11 13 24 25 10
+12 20 13 10 19 5
+13 20 12 24 11 10
+14 4 23 16
+15 23 17 16
+16 23 14 15
+17 18 23 22 15
+18 17 19 22
+19 18 22 20 12
+20 22 19 21 24 13 12
+21 22 20 24 40
+22 18 23 19 20 21 17
+23 14 15 16 17 22
+24 21 20 13 11 25 27 28
+25 24 11 27 26
+26 25 29 30 27
+27 24 25 28 30 31 26
+28 24 27 32 40 31
+29 26 30 36 35
+30 27 29 31 34 35 26 33
+31 27 30 32 33 28
+32 28 31 40 39
+33 31 39 34 38 30
+34 33 30 35 38 37
+35 34 30 36 37 29
+36 35 29 37
+37 38 36 35 34
+38 41 33 34 37 39
+39 32 33 40 42 41 38
+40 32 42 39 21 28
+41 39 42 38
+42 40 39 41

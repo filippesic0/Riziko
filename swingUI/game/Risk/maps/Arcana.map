@@ -1,0 +1,125 @@
+; map: Arcana.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+circle 25
+
+[files]
+pic Arcana_pic.png
+map Arcana_map.gif
+crd Arcana.cards
+
+[continents]
+Blue4 4 #3399ff
+orange4 4 #ffcc00
+violet4 4 #9999ff
+red3 3 #ff6666
+Yellow3 3 #ffff66
+violet3 3 #ccccff
+Pink3 3 #ffccff
+violet2 2 #6666ff
+Pink2 2 #ffcccc
+pink1 1 #ff66cc
+Blue1 1 #3366ff
+
+[countries]
+1 SouthEastB1 11 499 150
+2 NothWestB1 11 453 122
+3 NorthEastP1 10 438 196
+4 SouthWestP1 10 410 221
+5 WestV2 8 511 217
+6 SouthEastV2 8 561 225
+7 NorthEastV2 8 547 198
+8 NorthP3 7 491 284
+9 NorthEastP3 7 526 279
+10 EastP3 7 500 316
+11 WestP3 7 459 311
+12 SouthP3 7 480 338
+13 EastV3 6 413 359
+14 MiddleEastV3 6 378 372
+15 MiddleWestV3 6 337 365
+16 NorthV3 6 371 303
+17 EastY3 5 261 377
+18 MiddleEastY3 5 219 382
+19 MiddleY3 5 181 378
+20 MiddleWestY3 5 147 358
+21 WestY3 5 117 336
+22 NorthWestY3 5 137 309
+23 WestP2 9 208 312
+24 EastP2 9 246 320
+25 NorthP2 9 253 279
+26 SouthEastV4 3 198 248
+27 SouthV4 3 172 249
+28 SouthWestV4 3 141 241
+29 MiddleWestV4 3 165 209
+30 MiddleEastV4 3 204 217
+31 NorthEastV4 3 188 181
+32 NorthWestV4 3 154 170
+33 WestB4 1 151 99
+34 NorthWestB4 1 206 92
+35 SouthWestB4 1 183 123
+36 MiddleEastB4 1 228 123
+37 NorthEastB4 1 243 74
+38 EastB4 1 271 102
+39 SouthEastB4 1 259 136
+40 NorthWestR3 4 264 158
+41 NorthEastR3 4 291 177
+42 SouthWestR3 4 274 206
+43 SouthEastR3 4 305 220
+44 NorthWestO4 2 308 99
+45 NorthO4 2 336 113
+46 NorthEastO4 2 374 101
+47 SouthEastO4 2 356 141
+48 SouthWestO4 2 319 148
+49 WestV3 6 298 365
+
+[borders]
+1 2 7
+2 46 1
+3 5 4
+4 47 3
+5 7 9 3
+6 7 9
+7 1 6 5
+8 10 9 11
+9 6 5 10 8
+10 9 8 11 12
+11 10 8 12
+12 10 11 13
+13 12 14
+14 13 15
+15 14 16 49
+16 15
+17 24 18 49
+18 17 19
+19 18 20
+20 19 21
+21 20 22
+22 21 23 28
+23 22 24
+24 17 23 25
+25 24 26
+26 25 27 30
+27 26 30 29 28
+28 27 22 29
+29 27 28 30 31 32
+30 27 26 31 29 42
+31 30 29 32
+32 31 29 33
+33 32 34 35
+34 33 35 36 37
+35 33 34 36
+36 34 35 38 37 39
+37 34 36 38
+38 36 37 39 44
+39 36 38 40
+40 39 41
+41 40 48 42 43
+42 41 43 30
+43 42 41
+44 48 38 45
+45 46 48 44 47
+46 2 47 45
+47 46 4 48 45
+48 41 47 45 44
+49 15 17

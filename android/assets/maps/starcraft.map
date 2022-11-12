@@ -1,0 +1,106 @@
+; map: starcraft.map
+; Made with yura.net Domination 1.1.1.4
+; OS: Windows 7 6.1 Service Pack 1 (64bit) on amd64
+
+ver 2
+
+[files]
+pic starcraft_pic.png
+map starcraft_map.gif
+crd starcraft.cards
+
+[continents]
+Aiur 5 green
+Shakuras 2 blue
+Korhal 5 #dd80ff
+Mar_Sara 3 yellow
+Char 7 red
+Zerus 2 #ff80db
+
+[countries]
+1 Saalok 1 921 193
+2 Citadel_of_the_Executor 1 1060 223
+3 Velari_Province 1 998 268
+4 The_Great_Forum 1 961 381
+5 Antioch_Province 1 1057 443
+6 Remains_of_the_Overmind 1 1098 259
+7 Scion_Province 1 1138 364
+8 Feral_Hives 1 1149 246
+9 Temple_of_the_Preservers 1 913 311
+10 Acid_Marsh 5 127 339
+11 Ate 5 536 447
+12 Bone_Trench 5 411 272
+13 Burning_Rift 5 236 240
+14 Char_Aleph 5 112 170
+15 Dauntless_Plateau 5 427 370
+16 Death_Valley 5 342 192
+17 Eris 5 297 510
+18 Glass_Flats 5 246 152
+19 Hell's_Gates 5 368 476
+20 Nydus_Network 5 306 416
+21 Pimary_Hive_Cluster 5 202 364
+22 Augustgrad 3 616 269
+23 Canis 3 792 140
+24 Keresh_Province 3 737 252
+25 Ruins_of_Styrling 3 607 369
+26 Wolfrec_Province 3 626 137
+27 Ursa 3 742 412
+28 Radiated_Wastes_ 3 494 224
+29 Backwater_Station 4 627 653
+30 Diamondback_Wastelands 4 661 585
+31 Jacobs_Installation 4 627 516
+32 Pyramus 4 771 531
+33 Riksville 4 723 651
+34 Thisby 4 460 636
+35 Rajal 2 910 742
+36 Katuul_Province 2 918 637
+37 Talematros 2 1015 566
+38 Xel'naga_Temple_Grounds 2 1009 694
+39 Fulmic_Highlands 6 105 720
+40 Sundered_Valley 6 197 690
+41 The_Eternal_Scar 6 142 631
+42 Volatile_Cleft 6 172 760
+
+[borders]
+1 23 9 2 3
+2 3 6 8 1
+3 7 4 9 2 6 1
+4 5 7 9 3
+5 37 4 7
+6 7 2 3 8
+7 5 4 3 6
+8 2 6
+9 4 3 1
+10 14 21
+11 15 28 25 31 19 30
+12 16 15 28
+13 14 21 16 18
+14 10 18 13 21
+15 20 12 28 11 19
+16 13 20 12 18
+17 19 20 41
+18 14 16 13
+19 15 11 17
+20 16 15 17 21
+21 14 10 13 20
+22 28 25 27 24 26
+23 24 26 1
+24 22 23 26
+25 11 31 32 22
+26 22 23 24 28
+27 32 22
+28 15 12 11 22 26
+29 34 33 30
+30 11 34 33 31 29 32
+31 11 30 25 32
+32 33 30 31 27 25 36
+33 29 30 32
+34 29 30
+35 36 38
+36 32 35 38 37
+37 36 38 5
+38 36 35 37
+39 41 42 40
+40 39 42 41
+41 17 39 40
+42 39 40

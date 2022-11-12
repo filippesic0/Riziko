@@ -1,0 +1,129 @@
+; map: 1euro.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+ver 2
+circle 25
+
+[files]
+pic 1euro_pic.png
+map 1euro_map.gif
+crd 1euro.cards
+
+[continents]
+afrika 2 #cc00cc
+nahost 4 #66ff66
+russa 5 cyan
+norden 4 #80a4ff
+eurowest 8 #ff80d0
+euroost 8 #acff80
+
+[countries]
+1 Morocco 1 330 911
+2 alergia 1 448 987
+3 westsahara 1 222 1016
+4 Tunesia 1 604 846
+5 Lybia 1 718 990
+6 Egypt 1 922 1004
+7 saudiarbia 2 1113 975
+8 Iraq 2 1152 881
+9 Syria 2 1075 847
+10 israel 2 1031 919
+11 Iran 2 1269 852
+12 turkey 2 999 769
+13 georgia 2 1178 728
+14 uspekt 3 1290 590
+15 russia 3 1066 381
+16 Weisrussland 3 862 481
+17 Ukraine 3 928 565
+18 moldavien 3 891 608
+19 Poland 6 735 523
+20 lithauen 3 807 463
+21 Letland 3 834 435
+22 Estland 3 834 401
+23 Finnland 4 832 293
+24 Schweden 4 687 328
+25 Norwegen 4 594 354
+26 norwanisland 4 681 70
+27 Greenland 4 56 197
+28 Iceland 4 232 295
+29 Dublin 5 343 499
+30 bitain 5 441 503
+31 niederlande 5 546 513
+32 belgien 5 530 545
+33 denemarkt 5 599 448
+34 Deutschland 5 606 529
+35 tschechien 6 688 564
+36 schweiz 5 580 621
+37 frankreich 5 502 618
+38 spanien 5 401 737
+39 Portugal 5 323 745
+40 oesterreich 5 674 608
+41 slovakai 6 749 582
+42 ungarn 6 752 618
+43 romanien 6 832 633
+44 bulgarien 6 847 707
+45 grichenland 6 801 774
+46 italien 5 628 665
+47 BELGRAD 6 780 678
+48 SLOWENIEN 6 684 638
+49 Croatien 6 710 642
+50 bosnien 6 728 669
+51 albanien 6 766 731
+52 macedonin 6 797 724
+53 kosovo 6 781 705
+
+[borders]
+1 2 3 38
+2 1 4 5 3
+3 1 2
+4 2 46 5
+5 2 4 6
+6 5 10 7
+7 6 8 10
+8 7 9 10 11 12
+9 8 12 10
+10 6 7 8 9
+11 8 13 14 12
+12 8 9 11 44 45 13
+13 11 12 15
+14 11 15
+15 13 14 17 16 21 22 19 20 23 25
+16 15 19 17 20 21
+17 15 16 19 18 43 41 42
+18 17 43
+19 15 16 17 34 35 41 20
+20 15 16 19 21
+21 15 16 20 22
+22 15 21
+23 15 24 25
+24 23 33 25
+25 15 23 24 26
+26 25 27
+27 26 28
+28 27 30 29
+29 28 30
+30 28 29 37 32
+31 34 32
+32 30 31 37 34
+33 24 34
+34 19 31 32 33 37 36 40 35
+35 19 34 40 41
+36 34 37 40 46
+37 30 32 34 36 38 46
+38 1 37 39
+39 38
+40 34 35 36 48 41 42 46
+41 17 19 35 40 42
+42 17 40 41 49 48 43 47
+43 17 18 42 47 44
+44 12 43 47 53 52 45
+45 12 44 51 52
+46 4 36 37 40 48
+47 42 43 44 50 49 53 51
+48 40 42 46 49
+49 42 47 48 50
+50 47 49
+51 45 53 47 52
+52 44 45 51 53
+53 44 47 51 52

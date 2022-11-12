@@ -1,0 +1,117 @@
+; map: Human_Skeleton.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[files]
+pic Human_Skeleton_pic.png
+map Human_Skeleton_map.gif
+crd Human_Skeleton.cards
+
+[continents]
+Head 1 #ffe380
+Upper_Torso 2 #ffd280
+Right_Arm 2 #ffa380
+Left_Arm 2 #ffa380
+Lower_Torso 2 #ffa780
+Right_Leg 2 #ffa180
+Left_Leg 2 #ff80ee
+
+[countries]
+1 Cranium_Q1 1 280 13
+2 Cranium_Q2 1 330 9
+3 Cranium_Q3 1 275 39
+4 Cranium_Q4 1 342 36
+5 Mandible_Q1 1 280 61
+6 Mandible_Q2 1 341 61
+7 Cervical_Vertebra_C1-C7 2 304 75
+8 Right_Clavicle,_Scapula,_#1-3_Ribs,_Thoracic_Vertebra_T1-T4 2 284 100
+9 Sternum 2 317 116
+10 Left_Clavicle,_Scapula,_#13-15_Ribs 2 324 93
+11 #4-8_Ribs,Thoracic_Vertebra_T5-T7 2 292 130
+12 #16-20_Ribs 2 335 124
+13 #9-12_Ribs,_Thoracic_Vertebra_T8-T12 2 292 157
+14 #20-24_Ribs 2 342 147
+15 Lumbar_Vertebra_L1-L3 5 319 164
+16 Lumbar_Vertebra_L4-L5 5 311 182
+17 Right_Innominate 5 285 194
+18 Left_Innominate 5 335 186
+19 Sacrum 5 311 234
+20 Coccygeal 5 310 257
+21 Right_Humerus_Q1 3 237 91
+22 Right_Humerus_Q2 3 199 94
+23 Right_Radius_&_Ulna_Q1 3 158 100
+24 Right_Radius_&_Ulna_Q2 3 118 110
+25 Right_Carpals 3 92 110
+26 Right_Metacarpals 3 72 117
+27 Right_Phalanges 3 66 157
+28 Left_Humerus_Q1 4 356 71
+29 Left_Humerus_Q2 4 381 63
+30 Left_Radius_&_Ulna_Q1 4 412 57
+31 Left_Radius_&_Ulna_Q2 4 435 53
+32 Left_Carpals 4 455 46
+33 Left_Metacarpals 4 477 47
+34 Left_Phalanges 4 496 77
+35 Right_Femur_Q1 6 264 240
+36 Right_Femur_Q2 6 270 288
+37 Right_Patella 6 270 315
+38 Right_Tibia_&_Fibula_Q1 6 274 342
+39 Right_Tibia_&_Fibula_Q2 6 279 374
+40 Right_Tarsals 6 284 395
+41 Right_Metatarsals 6 307 415
+42 Left_Femur_Q1 7 354 231
+43 Left_Femur_Q2 7 354 278
+44 Left_Patella 7 356 305
+45 Left_Tibia_&_Fibula_Q1 7 346 328
+46 Left_Tibia_&_Fibula_Q2 7 339 358
+47 Left_Tarsals 7 343 378
+48 Left_Metatarsals 7 343 402
+
+[borders]
+1 2 4 3
+2 1 4
+3 1 4 5
+4 1 2 3 6
+5 3 6 7
+6 4 5 7
+7 5 6 8 10
+8 7 10 9 11 21
+9 8 10 11 12 13 14
+10 7 8 9 12 28
+11 8 9 13
+12 10 9 14
+13 9 15 11
+14 9 15 12
+15 13 14 16
+16 15 18 17 19
+17 16 35
+18 16 42
+19 16 20
+20 19
+21 8 22
+22 23 21
+23 22 24
+24 25 23
+25 24 26
+26 27 25
+27 26 41
+28 10 29
+29 28 30
+30 29 31
+31 30 32
+32 31 33
+33 32 34
+34 33 48
+35 17 36
+36 35 37
+37 36 38
+38 37 39
+39 38 40
+40 39 41
+41 27 40
+42 18 43
+43 42 44
+44 43 45
+45 44 46
+46 45 47
+47 46 48
+48 34 47

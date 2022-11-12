@@ -1,0 +1,53 @@
+; Chris Thomas
+; cards file
+
+[cards]
+Cannon 1
+Infantry 2
+Cavalry 3
+Cannon 4
+Infantry 5
+Cavalry 6
+Cannon 7
+Infantry 8
+Cavalry 9
+Cannon 10
+Infantry 11
+Cavalry 12
+Cannon 13
+Infantry 14
+Cavalry 15
+Cannon 16
+Infantry 17
+Cavalry 18
+Cannon 19
+Infantry 20
+Cavalry 21
+Cannon 22
+Infantry 23
+Cavalry 24
+Cannon 25
+Infantry 26
+wildcard
+wildcard
+wildcard
+wildcard
+
+;destroy x occupy x x continents x x x
+;destroy (Player) occupy (int int) continents (Continent Continent Continent)
+; * = any
+[missions]
+0	0 0	1 2 0	Conquer the Faction of The CORE and CONQUEST.
+0	0 0	1 3 0	Conquer the Faction of The WING and CONQUEST.
+0	0 0	1 4 0	Conquer the Faction of The TOWER and CONQUEST.
+0	0 0	1 5 0	Conquer the Faction of The OUTLANDS and CONQUEST.
+0	0 0	1 6 0	Conquer the Faction of The REMNENT and CONQUEST.
+0	10 3	0 0 0   Conquer any 10 Sectors and occupy them with at least 3 armies.
+1	15 1	0 0 0	Destroy all of PLAYER1's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 15 countries.
+2	15 1	0 0 0	Destroy all of PLAYER2's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 15 countries.
+3	15 1	0 0 0	Destroy all of PLAYER3's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 15 countries.
+4	15 1	0 0 0	Destroy all of PLAYER4's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 15 countries.
+5	15 1	0 0 0	Destroy all of PLAYER5's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 15 countries.
+6	15 1	0 0 0	Destroy all of PLAYER6's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 15 countries.
+
+

@@ -1,0 +1,15 @@
+; cards: Tamriel.cards
+; cards made with the map maker
+; yura.net Risk 1.1.0.1
+
+[cards]
+Cavalry 1
+Infantry 2
+Cannon 3
+Cavalry 4
+Infantry 5
+Cannon 6
+Cavalry 7
+Infantry 8
+Cannon 9
+wildcard

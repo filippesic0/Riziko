@@ -1,0 +1,93 @@
+; cards: DiscWorld.cards
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[cards]
+Infantry 1
+Cannon 2
+Cavalry 3
+Infantry 4
+Cannon 5
+Cavalry 6
+Infantry 7
+Cannon 8
+Cavalry 9
+Infantry 10
+Cannon 11
+Cavalry 12
+Infantry 13
+Cannon 14
+Cavalry 15
+Infantry 16
+Cannon 17
+Cavalry 18
+Infantry 19
+Cannon 20
+Cavalry 21
+Infantry 22
+Cannon 23
+Cavalry 24
+Infantry 25
+Cannon 26
+Cavalry 27
+Infantry 28
+Cannon 29
+Cavalry 30
+Infantry 31
+Cannon 32
+Cavalry 33
+Infantry 34
+Cannon 35
+Cavalry 36
+Infantry 37
+Cannon 38
+Cavalry 39
+Infantry 40
+Cavalry 41
+Infantry 42
+Infantry 43
+Cannon 44
+Cavalry 45
+Infantry 46
+Cannon 47
+Cavalry 48
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+
+; destroy x occupy x x continents x x x
+; destroy (Player) occupy (int int) continents (Continent Continent Continent)
+[missions]
+0	0 0	1 4 0	Lord Hong's megalomania: Conquer the COUNTERWEIGHT and the UNNAMED continent.
+0	0 0	1 5 0	The Silver-Horde-Hollydays: Conquer the continents of WIDDERSHINS and COUNTERWEIGHT.
+0	0 0	2 3 0	The Ice-n-Poison-Alliance: Conquer the CENTRAL and the FOURECKS continent.
+0	0 0	2 4 0	The HEX-plan to rescue Rincewind: Conquer the UNNAMED and the FOURECKS continent.
+0	0 0	2 6 0	The heroical mistake of Gen. Tacticus: Conquer the continents of KLATCH and FOURECKS.
+0	0 0	3 4 0	Genghiz Cohen's raid: Conquer the UNNAMED and the CENTRAL continent.
+0	0 0	3 5 0	Hrun of Chimeria's raid: Conquer the CENTRAL and the WIDDERSHINS continent.
+0	0 0	4 5 0	The Werewolf Connection: Conquer the UNNAMED and the WIDDERSHINS continent.
+0	0 0	4 6 0	The Leshp crisis: Conquer the UNNAMED and the KLATCH continent.
+0	0 0	5 6 0	The rise of the Tzumen Empire: Conquer the KLATCH and the WIDDERSHINS continent.
+0	0 0	3 * 0	The revenge of the Ice Giants: Conquer CENTRAL and any other continent of your choice.
+0	0 0	4 * 0	Lady Margolotta's diplomacy: Conquer UNNAMED and any other continent of your choice.
+0	0 0	5 * 0	The Muntab uprising: Conquer WIDDERSHINS and any other continent of your choice.
+0	0 0	6 * 0	The Al Khali treatment: Conquer KLATCH and any other continent of your choice.
+0	18 1	1 0 0	The Butterfly-Conspiracy: Conquer the COUNTERWEIGHT continent and occupy 18 countries of your choice.
+0	18 1	2 0 0	The Scrappy-Conspiracy: Conquer the FOURECKS continent and occupy 18 countries of your choice.
+0	14 1	3 0 0	The Ice-Giants-Breakout: Conquer the CENTRAL continent and occupy 14 countries of your choice.
+0	14 1	4 0 0	The Lord-Snapcase-Idiocy: Conquer the UNNAMED continent and occupy 14 countries of your choice.
+0	14 1	5 0 0	The Genua-Plan: Conquer the WIDDERSHINS continent and occupy 14 countries of your choice.
+0	14 1	6 0 0	The Seriph-of-Al-Ybi-Idiocy: Conquer the KLATCH continent and occupy 14 countries of your choice.
+0	18 2	0 0 0	The revolt of the Igors: Occupy 18 countries of your choice and occupy each with at least 2 armies.
+0	24 1	0 0 0	Luggage's amok run: Occupy 24 countries of your choice and occupy each with at least 1 army.
+1	24 1	0 0 0	Quimby II orders: PLAYER1 is illegal - destroy those troops. If they are yours or they have already been destroyed by another player then your mission is: Occupy 24 countries.
+2	24 1	0 0 0	Quimby II orders: PLAYER2 is illegal - destroy those troops. If they are yours or they have already been destroyed by another player then your mission is: Occupy 24 countries.
+3	24 1	0 0 0	Quimby II orders: PLAYER3 is illegal - destroy those troops. If they are yours or they have already been destroyed by another player then your mission is: Occupy 24 countries.
+4	24 1	0 0 0	Quimby II orders: PLAYER4 is illegal - destroy those troops. If they are yours or they have already been destroyed by another player then your mission is: Occupy 24 countries.
+5	24 1	0 0 0	Quimby II orders: PLAYER5 is illegal - destroy those troops. If they are yours or they have already been destroyed by another player then your mission is: Occupy 24 countries.
+6	24 1	0 0 0	Quimby II orders: PLAYER6 is illegal - destroy those troops. If they are yours or they have already been destroyed by another player then your mission is: Occupy 24 countries.

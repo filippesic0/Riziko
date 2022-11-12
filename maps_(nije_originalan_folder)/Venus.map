@@ -1,0 +1,110 @@
+; map: Venus.map
+; map made with the map maker
+; yura.net Risk 1.1.0.1
+
+[files]
+pic Venus_pic.png
+map Venus_map.gif
+crd Venus.cards
+
+[continents]
+Ishtar 7 #66ff33
+Inanna 6 #ff9966
+Tioumoutiri 5 #ffff33
+Ouaiti 4 #cc9900
+Phosphoros 3 #3399ff
+Eosphoros 2 #9966ff
+
+[countries]
+1 Hesperus 1 506 229
+2 Aphrodite 1 598 240
+3 Astarte 1 646 265
+4 Vesper 1 552 362
+5 Isis 1 538 289
+6 Anahita 1 566 329
+7 Aredvi 1 444 337
+8 Sura 1 426 292
+9 Mithra 1 415 244
+10 Nahid 1 350 272
+11 NohEk 1 350 323
+12 XuxEk 1 281 306
+13 Hera 6 121 365
+14 Hestia 6 184 385
+15 Indunn 6 232 399
+16 Iris 6 267 376
+17 Frigg 5 38 188
+18 Hathor 5 43 155
+19 Hebe 5 95 224
+20 Hekate 5 142 202
+21 Hella_ 5 153 246
+22 Diana 4 178 286
+23 Eirene 4 205 257
+24 Eos 4 190 217
+25 Epona 4 173 139
+26 Ereshkigal 4 252 221
+27 Freya 4 301 247
+28 Daityas 3 553 171
+29 Arianrhod 3 492 158
+30 Artemis 3 502 118
+31 Athena 3 452 136
+32 Bast 3 430 112
+33 Ceres 3 429 71
+34 Ceridwen 3 481 85
+35 Demeter 3 548 66
+36 Kileken 2 174 49
+37 Barnumbirr 2 234 63
+38 SanatKumara 2 234 26
+39 copper 2 234 95
+40 Shukra 2 307 68
+41 brightness 2 327 39
+42 clearness 2 350 11
+43 Pure 2 451 29
+44 Navagraha 2 286 129
+45 Bhrgu 2 298 166
+
+[borders]
+1 5 2 8 9 28 29
+2 6 5 3 1 28
+3 6 2 17
+4 6
+5 6 2 1 7 8 9
+6 4 5 2 3 7
+7 6 5 8 11
+8 7 5 1 9 10 11
+9 8 1 10 5
+10 9 8 11 12 27
+11 7 8 10 12 16
+12 11 10 14 22 23
+13 14
+14 13 15 12 16
+15 14 16
+16 15 11 14
+17 3 18 19
+18 17
+19 17 20 21
+20 19 21 24 25
+21 19 20 22
+22 21 12 23
+23 22 12 24 26
+24 20 23 25 26
+25 20 24 26 39
+26 24 25 23 27 45
+27 26 10
+28 1 2 29 30
+29 1 28 30 31
+30 29 28 31 32 34
+31 29 30 32
+32 31 30 33
+33 32 34 43 41
+34 35 33 30
+35 34 36
+36 37 38 35
+37 36 39 40 41 38
+38 37 36 42 41
+39 37 44 25
+40 37 41 44
+41 37 38 40 42 33
+42 38 43 41
+43 33 42
+44 39 40 45
+45 44 26

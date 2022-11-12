@@ -1,0 +1,154 @@
+; map: Colorrisk_Kuno2.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[files]
+pic Colorrisk_Kuno2_pic.png
+map Colorrisk_Kuno2_map.gif
+crd Colorrisk_Kuno2.cards
+
+[continents]
+Iceberg 2 #33ccff
+Waterproof 2 #3399ff
+Moisture 1 #6666ff
+Banana 2 #ffff33
+Orange 1 #ff9900
+Orange_2 2 #ff6600
+Mint 1 #ccffcc
+Papeda 1 #00cc66
+Bloody_Red 2 #ff3333
+Asia 5 #ccff00
+
+[countries]
+1 Koepel 1 114 32
+2 Ananas 1 114 76
+3 Wig 1 114 124
+4 Droogdok 1 114 168
+5 Brug 1 160 168
+6 Blok 1 160 124
+7 Upernavik 1 160 76
+8 B-15 1 160 32
+9 Tensas 2 206 76
+10 Lonoke_County 2 254 76
+11 Terrebone_Parish 2 206 124
+12 Killeen 2 254 124
+13 Maastricht 2 345 76
+14 Bell 2 298 76
+15 Warm 3 299 169
+16 Not_Cold 3 299 216
+17 Ascending 3 253 170
+18 Tropics 3 253 216
+19 India 4 160 217
+20 China 4 114 217
+21 Philippines 4 114 263
+22 Brazil 4 114 307
+23 Ecuador 4 160 307
+24 Indonesia 4 160 263
+25 Vaucluse 5 253 307
+26 Free_State 5 207 307
+27 River 5 253 263
+28 River_Colony 5 207 263
+29 California 6 114 355
+30 Connecticut 6 160 355
+31 Indiana 6 207 355
+32 Massachusetts 6 207 402
+33 New_Hampshire 6 253 402
+34 New_Jersey 6 253 355
+35 Rockband 7 527 32
+36 RTL-Radio 7 527 123
+37 Restaurant 7 576 76
+38 Linux 7 527 76
+39 Scooter 7 576 123
+40 Wilde_Limoen 8 529 262
+41 Thai_Lemon 8 575 262
+42 Djeroek_Lime 8 529 309
+43 Djeroek_Poeroet 8 575 309
+44 Devil 9 297 355
+45 Red_Banana 9 344 355
+46 Color 9 390 355
+47 Heart 9 437 355
+48 Red_Button 9 481 355
+49 Roses 9 529 355
+50 Macau 10 482 262
+51 Abchazië 10 438 262
+52 Aksai_Chin 10 391 262
+53 Gazastrook 10 344 262
+54 Jammu 10 482 215
+55 Kasjmir 10 438 216
+56 Koerdistan 10 391 216
+57 Nagorno-Karabach 10 344 216
+58 Paraceleilanden 10 482 168
+59 Shaksgam 10 439 169
+60 Spratly-eilanden 10 391 169
+61 Taiwan 10 345 169
+62 Tibet 10 482 123
+63 Noord-Cyprus 10 439 124
+64 Westelijke_Jordaanoever 10 391 124
+65 Zuid-Ossetië 10 345 124
+
+[borders]
+1 8 2
+2 1 7 3
+3 2 6 4
+4 3 5 20
+5 6 4 19
+6 7 3 5 11
+7 2 8 9 6
+8 1 7
+9 7 11 10
+10 9 12 14
+11 6 9 12
+12 11 10 17
+13 14 65
+14 10 13
+15 17 16 61
+16 18 15 57
+17 12 15 18
+18 17 16 27
+19 5 20 24
+20 4 19 21
+21 20 22 24
+22 21 29 23
+23 22 24 30 26
+24 19 21 23 28
+25 26 27 34
+26 23 28 31 25
+27 28 25 18
+28 24 26 27
+29 22 30
+30 29 23 31
+31 30 26 34 32
+32 31 33
+33 34 32
+34 25 31 33 44
+35 38
+36 62 38 39
+37 38 39
+38 35 37 36
+39 37 36
+40 42 41 50
+41 40 43
+42 40 49 43
+43 42 41
+44 34 45
+45 44 46
+46 45 47
+47 46 48
+48 47 49
+49 48 42
+50 51 54 40
+51 50 55 52
+52 56 53 51
+53 52 57
+54 50 55 58
+55 51 54 59 56
+56 52 57 60 55
+57 16 53 56 61
+58 54 59 62
+59 55 58 60 63
+60 61 56 59 64
+61 57 65 60 15
+62 58 63 36
+63 64 59 62
+64 60 65 63
+65 13 61 64

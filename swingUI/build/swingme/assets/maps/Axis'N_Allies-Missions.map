@@ -1,0 +1,172 @@
+; map: Axis'N_Allies-Missions.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+name Axis and Allies Map II
+
+[files]
+pic Axis'N_Allies-Missions_pic.jpg
+map Axis'N_Allies-Missions_map.gif
+crd Axis'N_Allies-Missions.cards
+
+[continents]
+USA_in_America 4 #000099
+Nazy_in_Europe 3 #009999
+UK_in_America_and_Europe 2 #cccccc
+Russia 5 red
+Japan_in_Asia 3 yellow
+Neutrals 0 white
+UK_in_Africa 10 #999999
+Nazy_in_Africa 2 #33ff33
+USA_in_Asia 1 #0066ff
+Japan_in_Australia 2 #ffffcc
+USA_in_Australia 1 #99ccff
+UK_in_Australia 1 #666666
+
+[countries]
+1 Eastern-Canada 3 43 121
+2 Eastern-USA 1 37 149
+3 Caribbean 1 41 206
+4 Venezuela 6 27 246
+5 Peru 6 38 288
+6 Argentina 6 46 320
+7 Brazil 1 78 276
+8 Eire 6 142 72
+9 United-Kingdom 3 151 93
+10 Finland-Norway 2 189 59
+11 Sweden 6 198 76
+12 Gibraltar 3 148 164
+13 Spain 6 146 139
+14 Western-Europe 2 169 109
+15 Germany 2 212 114
+16 Switzerland 6 187 125
+17 Southern-Europe 2 208 136
+18 Eastern-Europe 2 230 104
+19 Ukraine 2 254 90
+20 Caucasus 4 280 110
+21 Karelia 4 284 41
+22 Russia 4 315 95
+23 Evenki-Natl-Okrug 4 384 61
+24 Novosibirsk 4 358 108
+25 Kazakh 4 333 135
+26 Yakut 4 431 46
+27 Soviet-Far-East 4 479 40
+28 Algeria 8 156 186
+29 Rio-De-Oro 6 130 222
+30 West-Africa 7 152 238
+31 Libya 8 200 193
+32 German_West_Africa 8 191 260
+33 Egypt-Sudan 7 236 225
+34 Congo 7 222 269
+35 Kenya 7 253 262
+36 East-Africa 7 280 258
+37 German_South_West_Africa 8 204 328
+38 South-Africa 7 227 339
+39 Tanzanika 8 250 283
+40 Madagascar 7 277 366
+41 Turkey 6 263 151
+42 Syria 7 267 187
+43 Saudi-Arabia 6 289 203
+44 Persia 4 305 163
+45 Afghan 6 333 161
+46 India 4 350 213
+47 Sinkiang 9 384 143
+48 Mongolia 6 411 114
+49 China 9 412 162
+50 Manchuria 5 446 126
+51 Kwangtung 5 442 162
+52 Indochina 5 409 216
+53 Japan 5 500 135
+54 Philipines 10 452 216
+55 Okinawa 5 488 195
+56 Carolines 11 494 234
+57 Wake 5 518 198
+58 Sumatra 10 409 282
+59 Borneo 10 448 262
+60 New-Guinea 10 502 283
+61 Solomans 11 533 285
+62 Australia 12 471 345
+63 New-Zealand 12 548 354
+64 Alaska 1 566 69
+65 Western-Canada 3 643 83
+66 Western-USA 1 630 141
+67 Mexico 1 650 185
+68 Midway 1 551 195
+69 Hawaii 1 583 214
+70 Rhodesia 7 262 316
+71 German_coast_west_africa 8 170 256
+72 Nigeria 7 207 230
+
+[borders]
+1 2 8 65
+2 1 3 66
+3 2
+4 5 7 67
+5 6 4 7
+6 5 7
+7 4 5 6 30
+8 1 9
+9 8 14 10
+10 11 21 9 14
+11 10 15
+12 13 28
+13 12 14
+14 9 13 15 16 17 10
+15 14 16 17 18 11
+16 14 15 17
+17 14 15 16 18 41 31
+18 15 17 19 21 41
+19 18 20 21
+20 19 21 22 41 42
+21 10 18 19 20 22
+22 20 21 23 24 25
+23 22 24 26
+24 22 23 25 26 47 48
+25 22 24 44 45 47
+26 23 24 27 48 50
+27 26 50 64
+28 30 31 12
+29 30
+30 28 29 71 7 31 72
+31 28 33 17 72 30
+32 34 72
+33 31 35 36 42 34 72
+34 32 37 33 35 72
+35 33 36 39 38 34 37 70
+36 33 35 43
+37 34 38 35
+38 37 40 70 35
+39 70 35 40
+40 38 70 39
+41 20 42 17 18
+42 33 41 44 43 20
+43 36 42
+44 25 42 45 46
+45 25 44 47 46
+46 47 52 45 44
+47 24 25 45 46 48 49 52
+48 24 26 47 49 50
+49 47 48 50 51 52
+50 26 27 48 49 51 53
+51 49 50 52
+52 46 47 49 51 54 58 59
+53 50 55
+54 52 56
+55 53 57
+56 54 61 57 60
+57 55 68 56
+58 52 62 59
+59 52 60 58
+60 59 61 56 62
+61 60 56 63
+62 58 63 60
+63 62 61
+64 27 65
+65 1 64 66
+66 2 65 67 69
+67 66 4
+68 69 57
+69 68 66
+70 38 40 39 35
+71 30 72
+72 32 71 33 31 34 30

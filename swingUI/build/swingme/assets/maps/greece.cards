@@ -1,0 +1,118 @@
+; cards: greece.cards
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[cards]
+Infantry 1
+Cannon 2
+Infantry 3
+Infantry 4
+Cavalry 5
+Cavalry 6
+Cavalry 7
+Cannon 8
+Cannon 9
+Cannon 10
+Cavalry 11
+Cannon 12
+Infantry 13
+Infantry 14
+Cannon 15
+Cannon 16
+Infantry 17
+Cannon 18
+Infantry 19
+Infantry 20
+Cavalry 21
+Cavalry 22
+Cavalry 23
+Cannon 24
+Cannon 25
+Cannon 26
+Cavalry 27
+Cannon 28
+Infantry 29
+Infantry 30
+Cannon 31
+Cannon 32
+Infantry 33
+Infantry 34
+Cavalry 35
+Infantry 3
+Infantry 4
+Cavalry 5
+Cavalry 6
+Cavalry 7
+Cannon 8
+Cannon 9
+Cannon 10
+Cavalry 11
+Cannon 12
+Infantry 13
+Infantry 14
+Cannon 15
+Cannon 16
+Infantry 17
+Cannon 18
+Infantry 19
+Infantry 20
+Cavalry 21
+Cavalry 22
+Cavalry 23
+Cannon 24
+Cannon 25
+Cannon 26
+Cavalry 27
+Cannon 28
+Infantry 29
+Cannon 39
+Cannon 40
+Cavalry 41
+Cannon 42
+Infantry 43
+Infantry 44
+Cannon 45
+Cannon 46
+Infantry 47
+Cannon 48
+Infantry 49
+Infantry 50
+Cavalry 51
+Cavalry 52
+Cavalry 53
+Cannon 54
+Cannon 55
+Cannon 56
+Cavalry 57
+Cannon 58
+Infantry 59
+Infantry 60
+Infantry 61
+Cavalry 62
+Cavalry 63
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+
+; destroy x occupy x x continents x x x
+; destroy (Player) occupy (int int) continents (Continent Continent Continent)
+[missions]
+0	0 0	1 2 0	Conquer the Regions of Makedonia and Thessalia.
+0	0 0	3 4 *	Conquer the Regions of Ipiros and Attiki and third Region of your choice.
+0	0 0	4 2 0	Conquer the Regions of Attiki and Thessalia.
+0	0 0	3 2 *	Conquer the Regions of Ipiro and Thessalia and a third continent of your choice.
+0	0 0	6 7 0	Conquer the Region Kriti and the Islands of Lesbos.
+0	20 2	0 0 0	Occupy 20 Nomi/ Islands, each with at least 2 armys.
+1	34 1	0 0 0	Destroy all of PLAYER1's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 34 countries.
+2	34 1	0 0 0	Destroy all of PLAYER2's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 34 countries.
+3	34 1	0 0 0	Destroy all of PLAYER3's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 34 countries.
+4	34 1	0 0 0	Destroy all of PLAYER4's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 34 countries.
+5	34 1	0 0 0	Destroy all of PLAYER5's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 34 countries.
+6	34 1	0 0 0	Destroy all of PLAYER6's TROOPS. If they are yours or they have already been destroyed by another player then your mission is: Occupy 34 countries.

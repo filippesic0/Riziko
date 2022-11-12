@@ -1,0 +1,89 @@
+; Trivial Pursuit Risk Cards
+; cards file
+
+[cards]
+Infantry 1
+Cannon 2
+Infantry 3
+Infantry 4
+Cavalry 5
+Cavalry 6
+Cavalry 7
+Cannon 8
+Cannon 9
+Cannon 10
+Cavalry 11
+Cannon 12
+Infantry 13
+Infantry 14
+Cannon 15
+Cannon 16
+Cavalry 17
+Cavalry 18
+Infantry 19
+Cavalry 20
+Infantry 21
+Infantry 22
+Cavalry 23
+Cannon 24
+Cannon 25
+Infantry 26
+Cannon 27
+Cavalry 28
+Cavalry 29
+Infantry 30
+Cannon 31
+Infantry 32
+Cannon 33
+Cavalry 34
+Infantry 35
+Cannon 36
+Infantry 37
+Cavalry 38
+Cavalry 39
+Cavalry 40
+Cannon 41
+Infantry 42
+Infantry 43
+Infantry 44
+Cavalry 45
+Cavalry 46
+Cavalry 47
+Cannon 48
+Cannon 49
+Cannon 50
+Infantry 51
+Cannon 52
+Infantry 53
+Infantry 54
+Cavalry 55
+Cavalry 56
+Cavalry 57
+Cannon 58
+Cannon 59
+Cannon 60
+Cavalry 61
+Cannon 62
+Infantry 63
+Infantry 64
+Cannon 65
+Cannon 66
+Cavalry 67
+Cavalry 68
+Infantry 69
+Cavalry 70
+Infantry 71
+Infantry 72
+Cavalry 73
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard

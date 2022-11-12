@@ -1,0 +1,125 @@
+; map: TEG_True_World.map
+; Made with yura.net Domination 1.1.1.3
+; OS: Windows XP 5.2 Service Pack 2 (64bit) on amd64
+; author: Wolfgang Morawetz
+; email: wfx@users.sourceforge.net
+; version: 0.9.8
+
+name TEG True World
+
+[files]
+pic TEG_True_World_pic.png
+map TEG_True_World_map.gif
+crd TEG_True_World.cards
+
+[continents]
+North_America 5 yellow
+South_America 2 red
+Europe 5 blue
+Africa 3 orange
+Asia 7 green
+Oceania 2 magenta
+
+[countries]
+1 Argentina 2 248 383
+2 Brazil 2 266 308
+3 Chile 2 225 376
+4 Columbia 2 216 281
+5 Peru 2 224 330
+6 Uruguay 2 265 350
+7 Mexico 1 146 206
+8 California 1 147 166
+9 Oregon 1 123 130
+10 New_York 1 160 134
+11 Alaska 1 61 82
+12 Yukon 1 102 95
+13 Canada 1 141 82
+14 Terranova 1 186 138
+15 Labrador 1 223 118
+16 Greenland 1 299 50
+17 Sahara 4 367 219
+18 Zaire 4 416 305
+19 Etiopia 4 432 254
+20 Egypt 4 432 210
+21 Madagascar 4 505 344
+22 South_Africa 4 430 352
+23 East_Australia 6 695 362
+24 Borneo 6 694 301
+25 West_Australia 6 655 362
+26 Sumatra 6 628 284
+27 Spain 3 325 157
+28 France 3 357 135
+29 Germany 3 393 122
+30 Italy 3 403 162
+31 Poland 3 425 127
+32 Russia 3 465 105
+33 Sweden 3 434 71
+34 Great_Britain 3 326 126
+35 Iceland 3 318 92
+36 Arabia 5 472 197
+37 Israel 5 478 220
+38 Turkey 5 459 171
+39 India 5 551 199
+40 Malaysia 5 615 200
+41 Iran 5 509 134
+42 Gobi 5 579 149
+43 China 5 640 138
+44 Mongolia 5 613 109
+45 Siberia 5 636 75
+46 Aral 5 526 86
+47 Tartary 5 562 71
+48 Taymir 5 596 62
+49 Katchatka 5 724 74
+50 Japan 5 711 171
+
+[borders]
+1 2 6 3 5
+2 17 6 1 5 4
+3 5 1 23
+4 2 5 7
+5 4 2 1 3
+6 2 1
+7 4 8
+8 10 7 9
+9 13 10 8 11 12
+10 14 16 8 9 13
+11 12 9 49
+12 13 9 11
+13 14 10 9 12
+14 15 10 13
+15 16 14
+16 35 10 15
+17 20 19 18 2 27
+18 19 21 22 17
+19 20 22 18 17
+20 31 38 37 21 19 17
+21 18 20
+22 19 18
+23 24 25 3 26
+24 40 23
+25 23
+26 39 23
+27 34 28 17
+28 29 30 27
+29 31 30 28 34
+30 29 28
+31 32 38 20 29
+32 46 41 38 31 33
+33 32 35
+34 29 27 35
+35 33 34 16
+36 38 37
+37 38 36 20
+38 32 41 36 37 31 20
+39 43 40 26 41
+40 43 24 39
+41 46 44 42 43 39 38 32
+42 44 43 41
+43 49 50 40 39 41 42 44 45
+44 45 43 42 41 46
+45 49 43 44 46 47 48
+46 47 45 44 41 32
+47 48 45 46
+48 45 47
+49 11 50 43 45
+50 43 49

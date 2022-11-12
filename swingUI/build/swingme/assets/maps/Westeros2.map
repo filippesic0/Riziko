@@ -1,0 +1,125 @@
+; map: Westeros2.map
+; Made with yura.net Domination 1.1.1.4
+; OS: Windows 8 6.2  (32bit) on x86
+
+circle 15
+ver 3
+
+[files]
+pic Westeros2_pic.png
+map Westeros2_map.gif
+crd Westeros2.cards
+
+[continents]
+The_North 7 #0000cc
+The_South 5 #ffa280
+The_Free_Cities 6 #80f6ff
+Central_Essos 5 #8980ff
+Old_Valyria 3 #fff180
+Jade_Sea 4 #33ff33
+Northeast 3 #fd80ff
+Sothoryos 3 #ff8087
+
+[countries]
+1 The_Gift 1 107 67
+2 The_Barrowlands 1 65 113
+3 Haunted_Forrest 1 95 46
+4 Lands_of_Always_Winter 1 75 15
+5 Winterfell 1 96 97
+6 Frost_Fangs 1 61 41
+7 The_Neck 1 85 143
+8 White_Harbor 1 117 119
+9 The_Vale 2 121 161
+10 Riverlands 2 87 175
+11 Iron_Islands 2 51 161
+12 Westerlands 2 56 187
+13 King's_Landing 2 115 191
+14 Reach 2 67 223
+15 Stormlands 2 112 231
+16 Dorne 2 102 265
+17 Braavos 3 166 153
+18 Pentos 3 163 204
+19 Lorath 3 196 155
+20 Norvos 3 198 186
+21 Myr 3 186 231
+22 Lys 3 168 266
+23 Tyrosh 3 156 240
+24 Volantis 3 215 266
+25 Qohor 3 232 200
+26 Dothraki_Sea 4 312 207
+27 Vaes_Dothrak 4 382 192
+28 Sarnor 4 271 168
+29 Lhazar 4 349 268
+30 Ibben 4 383 118
+31 Jogos_Nhai 4 482 212
+32 Valyria 5 255 311
+33 Slaver's_Bay 5 313 259
+34 Ghiscar 5 325 304
+35 Lands_of_the_Long_Summer 5 271 263
+36 Red_Waste 4 399 265
+37 Qarth 6 410 301
+38 Yi_Ti 6 480 297
+39 Asshai 6 536 375
+40 The_Shadow_Lands 6 567 321
+41 The_Cinnamon_Isles 6 460 368
+42 Thousand_Islands 7 538 168
+43 Grey_Waste 7 571 199
+44 Hidden_Sea 7 585 271
+45 Sothoryos 8 351 382
+46 Basilisk_Isles 8 279 363
+47 Summer_Islands 8 163 355
+48 Karhold 1 129 88
+49 Mussovy 7 574 176
+50 Skagos 1 137 64
+
+[borders]
+1 48 5 3 50
+2 5 7
+3 6 4
+4 6 3
+5 48 1 2 7 8
+6 4 3
+7 8 2 5 11 10 9
+8 7 5 17 48
+9 7 10 13 17
+10 7 12 13 9 11 14
+11 7 12 10
+12 11 10 14
+13 10 9 15 18 17 14
+14 12 15 16 10 13
+15 13 14 16 23 18
+16 14 15 23 22 47
+17 20 13 9 8 19 18
+18 13 21 20 15 17
+19 20 17 25
+20 21 18 19 17 25
+21 23 22 18 20 25 24
+22 16 23 21 24 47
+23 16 22 21
+24 22 21 25 32 35 26 47
+25 20 19 21 24 28 26
+26 25 35 24 28 18 33 29 27 36 30 31
+27 26 30 31
+28 25 26
+29 26 36 33 34
+30 26 27
+31 27 36 40 42 43 38 26 44
+32 24 34 35 47 46
+33 26 29 34 35
+34 29 33 46 32 35 45
+35 24 26 32 33 34
+36 26 31 29 37 38
+37 36 38 41
+38 36 37 39 31 41
+39 38 40 41
+40 39 31 44
+41 37 39 45 38
+42 31 49
+43 44 31 49
+44 40 43 31
+45 41 46 34
+46 34 45 47 32
+47 32 24 22 16 46
+48 1 5 50 8
+49 42 43
+50 48 1

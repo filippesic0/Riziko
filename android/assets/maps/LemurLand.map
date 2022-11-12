@@ -1,0 +1,93 @@
+; map: LemurLand.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+[files]
+pic LemurLand_pic.jpg
+map LemurLand_map.gif
+crd LemurLand.cards
+
+[continents]
+Grey 3 #333333
+Yellow 3 #e5e54c
+Green 3 #00ae00
+Sun 3 #656699
+Magenta 3 #6a2394
+Brown 3 #9966cc
+Orange 3 #80d0ff
+
+[countries]
+1 Grey1 1 96 451
+2 Grey2 1 96 374
+3 Grey3 1 96 286
+4 Grey4 1 96 202
+5 Grey5 1 96 132
+6 Yellow1 2 250 451
+7 Yellow2 2 250 374
+8 Yellow3 2 250 286
+9 Yellow4 2 250 202
+10 Yellow5 2 250 132
+11 Green1 3 96 64
+12 Green2 3 250 64
+13 Green3 3 412 64
+14 Green4 3 560 64
+15 Green5 3 738 64
+16 Green6 3 907 64
+17 Blue1 4 412 451
+18 Blue2 4 412 374
+19 Blue3 4 412 286
+20 Blue4 4 412 202
+21 Blue5 4 412 132
+22 Purple1 5 560 451
+23 Purple2 5 560 374
+24 Purple3 5 560 286
+25 Purple4 5 560 202
+26 Purple5 5 560 132
+27 Brown1 6 738 451
+28 Brown2 6 738 374
+29 Brown3 6 738 286
+30 Brown4 6 738 202
+31 Brown5 6 738 132
+32 Orange1 7 907 451
+33 Orange2 7 907 374
+34 Orange3 7 907 286
+35 Orange4 7 907 202
+36 Orange5 7 907 132
+
+[borders]
+1 2
+2 1 3 6
+3 2 4 7
+4 5 3 8
+5 11 4 9
+6 7
+7 1 17 6 8
+8 2 18 7 9
+9 3 19 8 10
+10 4 20 9 12
+11 5
+12 10
+13 21
+14 26
+15 31
+16 36
+17 18
+18 6 17 19 22
+19 7 18 20 23
+20 8 19 21 24
+21 9 20 13 25
+22 23
+23 17 22 24 27
+24 18 23 25 28
+25 19 24 26 29
+26 20 25 14 30
+27 28
+28 22 27 29 32
+29 23 28 30 33
+30 24 29 31 34
+31 25 30 15 35
+32 33
+33 27 32 34
+34 28 33 35
+35 29 34 36
+36 30 35 16

@@ -1,0 +1,120 @@
+; map: SS4_ZharmeriakZonis.map
+; Made with yura.net Domination 1.1.1.0
+; OS: Mac OS X 10.6.8 unknown (64bit) on x86_64
+
+circle 15
+
+[files]
+pic SS4_ZharmeriakZonis_pic.jpg
+map SS4_ZharmeriakZonis_map.gif
+crd SS4_ZharmeriakZonis.cards
+
+[continents]
+Cross 0 #ff80f3
+Squares 0 #ccffff
+Bases 5 #fffe80
+Lunar_zone 4 #ff9980
+North_zone 3 #330099
+Meridian_zone_1 3 red
+Meridian_zone_2 4 #99ff33
+South_zone 3 #009933
+
+[countries]
+1 North_zone 5 182 60
+2 Meridian_zone_1 6 201 272
+3 Lunar_zone 4 175 304
+4 Meridian_zone_2 7 567 170
+5 South_zone 8 555 394
+6 NZ_Territory_C 5 115 80
+7 NZ_Base 3 595 55
+8 MZ1_Territory_B 6 105 207
+9 MZ1_Base 3 595 75
+10 LZ_Territory_A 4 35 330
+11 LZ_Base_A 3 594 92
+12 LZ_Territory_B 4 81 331
+13 LZ_Territory_C 4 125 331
+14 LZ_Base_C 3 664 55
+15 MZ2_Territory_C 7 627 269
+16 MZ2_Base 3 665 74
+17 SZ_Territory_A 8 606 302
+18 SZ_Base 3 665 99
+19 LZ_Cross_1 1 474 319
+20 LZ-SZ_Square 2 450 293
+21 LZ_Cross_2 1 397 237
+22 LZ_Square 2 424 198
+23 MZ2_Cross_1 1 434 248
+24 MZ2-LZ_Square_1 2 473 252
+25 MZ1_Cross_1 1 254 196
+26 MZ1_Square 2 287 168
+27 NZ_Cross_1 1 456 68
+28 NZ-LZ_Square_1 2 420 93
+29 NZ_Territory_A 5 70 81
+30 NZ_Territory_B 5 93 80
+31 MZ1_Territory_A 6 105 189
+32 MZ1_Territory_C 6 105 225
+33 MZ1_Territory_D 6 105 243
+34 MZ2_Territory_A 7 598 188
+35 MZ2_Territory_B 7 621 188
+36 MZ2_Territory_D 7 649 270
+37 SZ_Territory_B 8 627 302
+38 SZ_Territory_C 8 647 303
+39 SZ_Cross_1 1 336 278
+40 SZ_Square_1 2 339 226
+41 SZ_Square_2 2 283 237
+42 SZ_Cross_2 1 243 238
+43 MZ2_Cross_2 1 420 154
+44 MZ2-LZ_Square_2 2 444 117
+45 NZ_Cross_2 1 366 108
+46 NZ_Square_2 2 390 80
+47 MZ1_Cross_2 1 240 82
+48 MZ1-LZ_Square 2 280 83
+
+[borders]
+1 7 28 46
+2 9 26 48
+3 14 11 20 24 22 46 48 28
+4 16 24 44
+5 18 20 40 41
+6 7 29 30 31
+7 6 1 27 45
+8 9 31 32 33
+9 8 2 25 26 47
+10 11 12
+11 10 3 19 21
+12 13 10
+13 14 12
+14 13 3 19 21
+15 16 17 32 34 35 37
+16 15 4 23 43
+17 18 15 32 33 37 38
+18 5 17 39 42
+19 20
+20 17 13 12 10 37 38
+21 22
+22 13 12 10 26 40
+23 24
+24 13 12 10 15 36 34 35
+25 26
+26 8 22 9 31 32 33 41
+27 28
+28 6 13 12 10 29 30
+29 6 30 33
+30 6 29 35
+31 8 6 32 33
+32 8 15 17 31 33 34
+33 32 8 31 29 17 35 36
+34 15 32 35 36 37
+35 34 15 30 33 36
+36 35 34 33 38
+37 17 34 38 15
+38 37 17 36
+39 40
+40 17 37 38 22
+41 17 37 38 26
+42 41
+43 44
+44 13 12 10 34 35 15 36
+45 46
+46 29 30 6 13 12 10
+47 48
+48 31 8 32 33 10 12 13

@@ -1,0 +1,105 @@
+; map: The_White_House.map
+; map made with the map maker
+; yura.net Risk 1.0.9.8
+
+[files]
+pic The_White_House_pic.png
+map The_White_House_map.gif
+crd The_White_House.cards
+
+[continents]
+Tennis_Courts 2 #ffe080
+West_Lawn 4 #8dff80
+Grand_Lawn 5 #ff8180
+East_Lawn 2 #808dff
+The_White_House 3 #fcff80
+
+[countries]
+1 John_Adams_(1797-1801) 1 32 332
+2 James_Madison_(1809-1817) 1 110 312
+3 James_Monroe_(1809-1817) 1 253 332
+4 John_Quincy_Adams_(1825-1829) 1 97 412
+5 Andrew_Jackson_(1829-1837) 1 125 356
+6 Martin_Van_Buren_(1837-1841) 1 185 399
+7 William_Henry_Harrison_(1841) 2 95 270
+8 John_Tyler_(1841-1845) 2 212 190
+9 James_K._Polk_(1845-1849) 2 86 234
+10 Zachary_Taylor_(1849-1850) 2 170 180
+11 Millard_Fillmore_(1850-1853) 2 114 158
+12 Franklin_Pierce_(1853-1857) 2 78 185
+13 James_Buchanan_(1857-1861) 2 62 125
+14 Calvin_Coolidge_(1923-1929) 3 249 191
+15 Andrew_Johnson_(1865-1869) 3 273 251
+16 Ulysses_S._Grant_(1869-1877) 3 327 186
+17 Rutherford_B._Hayes_(1877-1881) 3 444 216
+18 James_A._Garfield_(1881) 3 411 177
+19 Chester_Arthur_(1881-1885) 3 516 126
+20 Herbert_Hoover_(1929-1933) 3 467 124
+21 Grover_Cleveland_(1885-89_&_1893-97) 3 437 106
+22 William_McKinley_(1897-1901) 4 580 209
+23 Theodore_Roosevelt_(1901-1909) 4 651 180
+24 William_Howard_Taft_(1909-1913) 4 663 224
+25 Woodrow_Wilson_(1913-1921) 4 595 232
+26 Warren_G._Harding_(1921-1923) 4 625 124
+27 Franklin_D._Roosevelt_(1933-1945) 2 168 223
+28 Harry_S_Truman_(1945-1953) 3 317 221
+29 Dwight_D._Eisenhower_(1953-1961) 1 231 366
+30 Benjamin_Harrison_(1889-1893) 4 650 152
+31 Richard_Nixon_(1969-1974) 5 441 76
+32 Gerald_Ford_(1974-1977) 5 371 75
+33 Jimmy_Carter_(1977-1981) 5 230 75
+34 Ronald_Reagan_(1981-1989) 5 80 82
+35 George_Bush_(1989-1993) 5 19 81
+36 Barack_Obama_(2009-present) 5 266 41
+37 George_W._Bush_(2001-2009) 5 333 42
+38 Bill_Clinton_(1993-2001) 5 298 71
+39 George_Washington_(1789-1797) 3 237 219
+40 Thomas_Jefferson_(1801-1809) 2 212 219
+41 Abraham_Lincoln_(1861-1865) 2 49 211
+42 John_F._Kennedy_(1961-1963) 1 31 391
+43 Lyndon_B._Johnson_(1963-1969) 5 502 77
+
+[borders]
+1 2 5 42
+2 3 1 5 29 7
+3 15 29 2
+4 6 5 42
+5 6 4 2 1 42 29
+6 29 5 4
+7 2 9 27
+8 14 10 40
+9 7 27 41
+10 27 8 11
+11 10 12 13
+12 27 11 13 41
+13 12 11 34
+14 16 8 39
+15 28 3
+16 18 28 14
+17 22 18 28
+18 19 20 17 16
+19 21 26 20 18
+20 21 19 18
+21 31 32 20 19
+22 23 25 17
+23 26 30 24 22
+24 23
+25 22
+26 19 30 23
+27 7 10 9 12 40
+28 17 16 15 39
+29 3 6 2 5
+30 26 23
+31 32 21 43
+32 37 38 31 21
+33 38 36 34
+34 33 13 35
+35 34
+36 37 38 33
+37 36 38 32
+38 37 32 36 33
+39 28 14 40
+40 39 8 27
+41 12 9
+42 4 5 1
+43 31

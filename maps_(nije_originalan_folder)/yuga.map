@@ -1,0 +1,193 @@
+; map: yuga.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8 6.2  (32bit) on x86
+
+[files]
+pic yuga_pic.png
+map yuga_map.gif
+crd yuga.cards
+
+[continents]
+Slovenia 3 #990000
+Croatia 6 #666666
+Bosina_and_Herzegovina 3 #006600
+Republic_of_Srpska 4 #009999
+Montenegro 3 #990099
+Vojvodina 3 #ff9900
+Serbia 7 #0000cc
+Kosovo_and_Metohija 3 #999999
+Macedonia 4 #cccc00
+
+[countries]
+1 Julian_Alps 1 185 48
+2 Central_Slovenia 1 212 62
+3 Coast_and_Karst 1 197 88
+4 Southeastern_Slovenia 1 241 74
+5 Pohorje-Savinjska 1 240 38
+6 Eastern_Slovenia 1 277 32
+7 Istria 2 180 118
+8 Primorje-Gorski_Kotar 2 223 110
+9 Karlovac 2 259 113
+10 Lika-Senj 2 255 154
+11 Zadar 2 262 200
+12 Sibenik-Knin 2 294 210
+13 Split-Dalmatia 2 319 233
+14 Dubrovnik-Neretva 2 373 288
+15 Medimurje 2 310 38
+16 Varazdin 2 301 53
+17 Krapina-Zagorje 2 281 59
+18 Zagreb 2 287 85
+19 Koprivnica-Krizevci 2 325 60
+20 Bjelovar-Bilogora 2 333 84
+21 Sisak-Moslavina 2 313 109
+22 Virovitica-Podravina 2 370 88
+23 Pozega-Slavonia 2 369 107
+24 Brod-Posavina 2 360 119
+25 Osijek-Baranja 2 406 101
+26 Vukovar-Syrmia 2 428 120
+27 Una-Sana 3 299 156
+28 Canton_10 3 336 212
+29 West_Herzegovina 3 359 251
+30 Herzegovina-Neretva 3 378 235
+31 Sarajevo 3 396 214
+32 Gorazde 3 428 227
+33 Central_Bosnia 3 366 198
+34 Zenica-Doboj 3 392 184
+35 Tuzla 3 413 172
+36 Posavina 3 399 130
+37 Banja_Luka 4 351 159
+38 Prijedor 4 324 134
+39 North_RoS-Doboj 4 383 141
+40 Semberia 4 436 153
+41 Romania 4 437 211
+42 Herzegovina_Srpska 4 405 257
+43 North_Montenegro 5 454 264
+44 East_Montenegro 5 429 286
+45 Coast 5 432 318
+46 Podgorica 5 453 308
+47 Plav-Berane-Rozaje 5 477 283
+48 Sombor 6 436 81
+49 Subotica 6 456 70
+50 Kikinda 6 483 64
+51 Novi_Sad 6 461 100
+52 Zrenjanin 6 505 101
+53 Srem 6 478 131
+54 Vrsac 6 529 133
+55 Macva 7 460 166
+56 Kolubara 7 483 180
+57 Beograd 7 504 154
+58 Podunavlje 7 535 164
+59 Branicevo 7 561 167
+60 Sumadija 7 530 191
+61 Zlatibor 7 475 220
+62 Moravicki 7 503 208
+63 Raska 7 509 262
+64 Rasina 7 542 225
+65 Pomoravlje 7 561 200
+66 Borski 7 589 174
+67 Toplica 7 554 255
+68 Nisava 7 576 242
+69 Zajecar 7 590 214
+70 Pirot 7 608 259
+71 Jablanica 7 577 278
+72 Pcinj 7 598 301
+73 Kosovska_Mitrovica 8 529 275
+74 Pec 8 511 295
+75 Prizren 8 530 322
+76 Kosovo 8 546 298
+77 Kosovsko_Pomoravski 8 564 306
+78 Polog 9 540 344
+79 Southwestern_Macedonia 9 537 381
+80 Skopje 9 566 336
+81 Northeastern 9 594 324
+82 Pelagonia 9 566 397
+83 Vardar 9 586 369
+84 Southeastern_Macedonia 9 624 371
+85 Eastern_Macedonia 9 607 343
+
+[borders]
+1 2 3
+2 1 3 4 5
+3 1 2 7 8 4
+4 2 3 9 8 18 17 5 6
+5 2 4 6
+6 5 17 16 15 4
+7 3 8
+8 3 4 7 10 9 11
+9 4 8 10 27 21 18
+10 8 9 27 11
+11 10 8 12 27
+12 11 27 28 13
+13 12 28 29 14 30
+14 13 30 42 45
+15 6 16 19
+16 6 15 17 18 19
+17 4 6 16 18
+18 4 9 16 17 21 20 19
+19 15 16 18 20 22
+20 18 19 21 23 22
+21 9 18 20 38 27 24 23
+22 19 20 23 25
+23 20 21 22 24 25
+24 21 23 39 38 36 26 25
+25 22 23 24 26 51 48
+26 24 25 36 40 51 53
+27 9 10 11 12 21 38 37 28
+28 12 13 27 37 33 30 29
+29 13 28 30
+30 13 14 28 29 42 31 33
+31 30 33 34 41 32 42
+32 31 41 42
+33 28 30 31 37 34
+34 31 33 37 39 35 41
+35 34 41 40 39
+36 24 26 39 40
+37 27 28 33 34 38 39
+38 21 24 27 37 39
+39 24 34 35 36 37 38 40
+40 26 35 36 39 41 53 55 61
+41 31 32 34 35 40 42 44 43 61
+42 14 30 31 32 41 44 45
+43 47 44 46 41 61
+44 43 46 45 42 41
+45 44 14 42 46
+46 47 44 45 43
+47 46 43 61 63 74
+48 51 25 49
+49 51 48 50
+50 51 49 52
+51 48 49 50 52 53 26 25
+52 54 51 50 53 57
+53 51 52 26 40 55 57
+54 52 57 58 59
+55 40 53 56 57 61
+56 55 57 61 62 60
+57 55 56 53 52 54 58 60
+58 54 57 60 65 59
+59 58 66 65 54
+60 56 58 57 62 63 64 65
+61 56 55 62 41 40 43 47 63
+62 56 60 61 63
+63 60 61 62 73 74 64 47
+64 60 63 65 68 67 73
+65 58 59 60 64 68 69 66
+66 59 65 69
+67 64 73 76 71 68
+68 64 65 67 71 70 69
+69 65 66 68 70
+70 68 69 71
+71 67 68 70 72 77 76
+72 71 77 81
+73 63 64 67 76 74
+74 63 73 75 76 47
+75 74 76 78
+76 67 71 73 74 75 78 80 77
+77 71 72 76 80 81
+78 75 76 80 79
+79 78 82 83 80
+80 76 77 78 79 83 85 81
+81 72 77 80 85
+82 79 83
+83 79 80 82 84 85
+84 83 85
+85 80 81 83 84

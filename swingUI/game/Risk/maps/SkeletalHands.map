@@ -1,0 +1,134 @@
+; map: SkeletalHands.map
+; map made with the map maker
+; yura.net Risk 1.0.9.8
+
+[files]
+pic SkeletalHands_pic.png
+map SkeletalHands_map.gif
+crd SkeletalHands.cards
+
+[continents]
+Left_Carpals 2 #80fdff
+Left_Pinky 1 #ff80cc
+Left_Ring_Finger 1 #ff8092
+Left_Middle_Finger 1 #80deff
+Left_Index_Finger 1 #80edff
+Right_Index_Finger 1 #ffe380
+Right_Middle_Finger 1 #80f7ff
+Right_Ring_Finger 1 #80afff
+Right_Pinky 1 #80ffd8
+Right_Carpals 2 #ff80ad
+Left_Thumb 1 #ffb180
+Right_Thumb 1 #80ffc1
+
+[countries]
+1 Left_Pisiform 1 78 338
+2 Left_Triquetrum 1 88 354
+3 Left_Hamate 1 101 326
+4 Left_Lunate 1 107 360
+5 Left_Capitate 1 128 331
+6 Left_Scaphoid 1 152 351
+7 Left_Trapezoid 1 148 324
+8 Right_Pisiform 10 453 333
+9 Right_Triquetrum 10 443 355
+10 Right_Hamate 10 425 325
+11 Right_Lunate 10 421 361
+12 Right_Capitate 10 402 333
+13 Right_Scaphoid 10 379 352
+14 Right_Trapezoid 10 379 324
+15 Left_Trapezium 1 169 327
+16 Right_Trapezium 10 358 328
+17 Left_Pinky_Distal_Phalange 2 21 131
+18 Left_Pinky_Intermediate_Phalange 2 29 163
+19 Left_Pinky_Proximal_Phalange 2 40 208
+20 Left_Pinky_Metacarpal 2 67 278
+21 Left_Ring_Finger_Distal_Phalange 3 63 54
+22 Left_Ring_Finger_Intermediate_Phalange 3 66 104
+23 Left_Ring_Finger_Proximal_Phalange 3 78 174
+24 Left_Ring_Finger_Metacarpal 3 93 253
+25 Left_Middle_Finger_Distal_Phalange 4 120 28
+26 Left_Middle_Finger_Intermediate_Phalange 4 120 78
+27 Left_Middle_Finger_Proximal_Phalange 4 122 146
+28 Left_Middle_Finger_Metacarpal 4 125 238
+29 Left_Index_Finger_Distal_Phalange 5 181 46
+30 Left_Index_Finger_Intermediate_Phalange 5 178 89
+31 Left_Index_Finger_Proximal_Phalange 5 175 151
+32 Left_Index_Finger_Metacarpal 5 161 240
+33 Left_Thumb_Distal_Phalange 11 239 175
+34 Left_Thumb_Proximal_Phalange 11 224 224
+35 Left_Thumb_Metacarpal 11 196 286
+36 Right_Thumb_Distal_Phalange 12 291 176
+37 Right_Thumb_Proximal_Phalange 12 307 226
+38 Right_Thumb_Metacarpal 12 331 288
+39 Right_Index_Finger_Distal_Phalange 6 349 47
+40 Right_Index_Finger_Intermediate_Phalange 6 350 92
+41 Right_Index_Finger_Proximal_Phalange 6 353 153
+42 Right_Index_Finger_Metacarpal 6 369 253
+43 Right_Middle_Finger_Distal_Phalange 7 412 25
+44 Right_Middle_Finger_Intermediate_Phalange 7 409 73
+45 Right_Middle_Finger_Proximal_Phalange 7 408 142
+46 Right_Middle_Finger_Metacarpal 7 407 242
+47 Right_Ring_Finger_Distal_Phalnge 8 468 53
+48 Right_Ring_Finger_Intermediate_Phalange 8 460 98
+49 Right_Ring_Finger_Proximal_Phalange 8 453 164
+50 Right_Ring_Finger_Metacarpal 8 437 249
+51 Right_Pinky_Distal_Phalange 9 510 128
+52 Right_Pinky_Intermediate_Phalange 9 501 163
+53 Right_Pinky_Proximal_Phalange 9 488 200
+54 Right_Pinky_Metacarpal 9 465 274
+
+[borders]
+1 2
+2 3 1 4
+3 20 24 2 5 4
+4 2 5 3 6
+5 24 28 3 4 6 7
+6 5 7 15 4
+7 32 6 5 15
+8 9
+9 11 10 8
+10 50 54 12 9 11
+11 12 13 9 10
+12 46 50 13 14 10 11
+13 16 12 11 14
+14 42 16 12 13
+15 32 35 6 7
+16 38 42 14 13
+17 18
+18 17 19
+19 18 20
+20 19 3
+21 22
+22 21 23
+23 22 24
+24 23 5 3
+25 26
+26 25 27
+27 26 28
+28 27 5
+29 30
+30 29 31
+31 30 32
+32 31 7 15
+33 36 34
+34 35 33
+35 15 34
+36 33 37
+37 36 38
+38 37 16
+39 40
+40 39 41
+41 42 40
+42 16 14 41
+43 44
+44 43 45
+45 46 44
+46 12 45
+47 48
+48 47 49
+49 50 48
+50 10 12 49
+51 52
+52 53 51
+53 54 52
+54 10 53

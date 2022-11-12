@@ -1,0 +1,123 @@
+; map: Draco.map
+; Made with yura.net Domination 1.1.1.6
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+ver 2
+name TEG Draco
+
+[files]
+pic Draco_pic.png
+map Draco_map.gif
+crd Draco.cards
+
+[continents]
+Rohan 3 yellow
+Mordor 2 red
+Gondor 3 blue
+Rhovanion 2 orange
+Eriador 5 green
+Forodwaith 1 magenta
+
+[countries]
+1 Morannon 2 129 316
+2 Udun 2 158 250
+3 Isenmouthe 2 94 315
+4 Barad-dur 2 110 220
+5 Orodruin 2 97 272
+6 Morgai 2 155 289
+7 Fangorn 1 90 146
+8 East_Mmnet 1 89 118
+9 Sarn_Gebir 1 70 100
+10 Snowbourn 1 112 100
+11 Helm_s_Deep 1 56 53
+12 Gab_of_Rohan 1 87 64
+13 Edoras 1 120 53
+14 Onodlo 1 139 83
+15 Emyn_Muil 1 170 75
+16 Gruas_Illen 1 238 27
+17 Dol_Guldur 4 256 250
+18 East_Bight 4 281 286
+19 Loeg_Ningloron 4 306 256
+20 Carrock 4 303 221
+21 Wood_Elves 4 362 320
+22 Erebor 4 313 300
+23 Angmar 6 606 315
+24 Withered_Heath 6 598 263
+25 Langwell 6 559 332
+26 Gundabad 6 550 274
+27 Calembel 3 241 184
+28 Minrimon 3 270 150
+29 Nardol 3 301 128
+30 Erelas 3 304 164
+31 Calenhad 3 347 140
+32 Eilenach 3 372 97
+33 Belfalas 3 325 56
+34 Dor-en-Ernil 3 257 99
+35 Lebenninn 3 279 56
+36 Fornost 5 418 190
+37 Hobbiton 5 375 221
+38 Bree 5 377 176
+39 Tharbad 5 481 205
+40 Lond_Daer 5 564 208
+41 Rivendell 5 425 129
+42 Carn_Dum 5 493 139
+43 Ettenmoors 5 538 153
+44 Harlindon 5 474 111
+45 Forlindon 5 477 86
+46 Forlon 5 419 82
+47 Gulf_of_Lhun 5 449 61
+48 Emyn_Uail 5 498 71
+49 Himling 5 575 67
+50 Jajadun 5 606 146
+
+[borders]
+1 2 6 3 5
+2 17 6 1 5 4
+3 5 1 23
+4 2 5 7
+5 4 2 1 3
+6 2 1
+7 4 8
+8 10 7 9
+9 13 10 8 11 12
+10 14 16 8 9 13
+11 12 9 49
+12 13 9 11
+13 14 10 9 12
+14 15 10 13
+15 16 14
+16 35 10 15
+17 20 19 18 2 27
+18 19 21 22 17
+19 20 22 18 17
+20 31 38 37 21 19 17
+21 18 20
+22 19 18
+23 24 25 3 26
+24 40 23
+25 23
+26 39 23
+27 34 28 17
+28 29 30 27
+29 31 30 28 34
+30 29 28
+31 32 38 20 29
+32 46 41 38 31 33
+33 32 35
+34 29 27 35
+35 33 34 16
+36 38 37
+37 38 36 20
+38 32 41 36 37 31 20
+39 43 40 26 41
+40 43 24 39
+41 46 44 42 43 39 38 32
+42 44 43 41
+43 49 50 40 39 41 42 44 45
+44 45 43 42 41 46
+45 49 43 44 46 47 48
+46 47 45 44 41 32
+47 48 45 46
+48 45 47
+49 11 50 43 45
+50 43 49

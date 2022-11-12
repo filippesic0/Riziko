@@ -1,0 +1,50 @@
+; map: avatar.map
+; map made with the map maker
+; yura.net Risk 1.0.9.8
+
+[files]
+pic avatar_pic.png
+map avatar_map.gif
+crd avatar.cards
+
+[continents]
+Feuernation 2 red
+Wasserstämme 1 #00cccc
+Luftnomaden 1 #ffff33
+Erdkönigreich 3 #339900
+
+[countries]
+1 Westlicher_Lufttempel 3 131 121
+2 Patola_Gebiergskette 3 270 321
+3 Östlicher_Lufttempel 3 587 260
+4 Südlicher_Wasserstamm 2 318 386
+5 Nördlicher_Wasserstamm 2 320 28
+6 Ba_Sing_Se 4 493 122
+7 Si_Wang_Wüste 4 440 224
+8 Erdinselkette 4 463 313
+9 Östliches_Erdkönigreich 4 513 163
+10 Nördliches_Erdkönigreich 4 394 92
+11 Westliches_Erdkönigreich 4 283 110
+12 Mittleres_Erdkönigreich 4 356 180
+13 Feuerinselkette 1 223 214
+14 Südliche_Feuernation 1 139 240
+15 Nördliche_Feuernation 1 127 194
+16 Mittlere_Feuernation 1 82 205
+
+[borders]
+1 15 11
+2 7 4 14
+3 8 9
+4 8 2
+5 11 10
+6 9
+7 12 8 2
+8 7 3 4
+9 10 6 12 3
+10 5 9
+11 1 5
+12 9 7 13
+13 12 14
+14 2 16 13
+15 1 16
+16 14 15

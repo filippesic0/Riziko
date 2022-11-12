@@ -1,0 +1,87 @@
+; map: colombia.map
+; Made with yura.net Domination 1.1.1.5
+; OS: Windows 8.1 6.3  (64bit) on amd64
+
+circle 45
+
+[files]
+pic colombia_pic.jpg
+map colombia_map.gif
+crd colombia.cards
+
+[continents]
+Caribe 2 yellow
+Pacifico 1 #80ddff
+Orinoquia 1 #ff0033
+Andina 3 #663300
+Amazonas 2 #33cc00
+
+[countries]
+1 Guajira 1 475 121
+2 Magdalena 1 348 209
+3 Atlantico 1 305 170
+4 Cesar 1 422 227
+5 Bolivar 1 362 325
+6 Sucre 1 311 304
+7 Cordoba 1 250 327
+8 San_andres_y_Providencia 1 50 121
+9 Choco 2 172 501
+10 Valle 2 184 659
+11 Nariño 2 85 791
+12 Cauca 2 169 737
+13 Arauca 3 599 460
+14 Casanare 3 567 516
+15 Meta 3 464 658
+16 Vichada 3 698 596
+17 Boyaca 4 427 538
+18 Cundinamarca 4 348 569
+19 Bogotá 4 369 603
+20 Caldas 4 285 540
+21 Risaralda 4 239 559
+22 Tolima 4 278 632
+23 Huila 4 265 733
+24 Santander 4 398 454
+25 Norte_de_Santander 4 433 314
+26 Guaviare 5 493 780
+27 Guainia 5 741 759
+28 Vaupes 5 600 858
+29 Caqueta 5 356 864
+30 Putumayo 5 210 875
+31 Amazonas 5 558 1021
+32 Antioquia 4 231 436
+33 Quindio 4 254 602
+
+[borders]
+1 4 2
+2 4 1 3 5
+3 2 5 8
+4 1 2 25 5
+5 4 3 6 8 24 32 2
+6 5 7 32
+7 6 32
+8 3 5
+9 32 10 21
+10 9 12 22 33 21
+11 30 12
+12 30 29 11 23 22 10
+13 17 14 16
+14 17 13 15 16
+15 14 16 26 29 23 19 18
+16 13 14 27 15
+17 25 24 32 13 14 18
+18 17 15 22 19 20
+19 15 23 22 18
+20 32 22 18 21
+21 32 10 22 20 33 9
+22 12 23 10 19 18 20 21 33
+23 15 29 12 19 22
+24 5 25 32 17
+25 4 24 17
+26 27 15 28 29
+27 16 26 28
+28 27 26 31 29
+29 15 26 28 31 30 23 12
+30 31 29 12 11
+31 28 30 29
+32 5 6 7 24 9 20 17 21
+33 10 22 21

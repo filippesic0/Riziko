@@ -1,0 +1,127 @@
+; map: steph.map
+; map made with the map maker
+; yura.net Risk 1.0.9.8
+
+[files]
+pic steph_pic.png
+map steph_map.gif
+crd steph.cards
+
+[continents]
+Nord-Amerika 7 #003333
+Süd-Amerika 5 #a7ff80
+Afrika 8 #ff80a9
+Australien 3 #b9ff80
+Europa 9 #e180ff
+Asien 10 #cb80ff
+Mittl._Osten 8 #ff80a9
+
+[countries]
+1 Alaska 1 142 260
+2 Kanada 1 294 318
+3 Grönland 1 509 150
+4 USA 1 296 403
+5 Kuba 1 399 485
+6 Mexiko 1 310 475
+7 Hawaii 1 123 494
+8 Argentinien 2 438 678
+9 Brasilien 2 484 596
+10 Bolivien 2 438 617
+11 Peru 2 402 593
+12 Kolumbien 2 411 549
+13 Venezuela 2 440 535
+14 Algerien 3 656 456
+15 Ägypten 3 731 466
+16 West-Afrika 3 622 507
+17 Nigeria 3 689 517
+18 Sudan 3 747 506
+19 Somalia 3 794 531
+20 Kongo 3 721 567
+21 Deutsch-Ost-Afrika 3 768 585
+22 Südafrika 3 744 631
+23 Madagaskar 3 810 621
+24 Indonesian 4 1035 557
+25 Phillippinen 4 1067 524
+26 Papua-Neuguinea 4 1143 580
+27 Australien 4 1102 647
+28 Neuseeland 4 1222 722
+29 Island 5 593 266
+30 Groß-Britannien 5 642 344
+31 Skandinavien 5 700 282
+32 Deutsches_Reich 5 690 356
+33 Ost-Europa 5 735 356
+34 Frankreich 5 665 384
+35 Iberien 5 638 410
+36 Italien 5 701 404
+37 Balkan 5 726 395
+38 Russland 6 970 290
+39 China 6 986 432
+40 Mongolei 6 995 382
+41 Korea 6 1078 413
+42 Japan 6 1114 431
+43 Thailand 6 982 490
+44 Vietnam 6 1012 510
+45 Indien 6 920 488
+46 Kasachstan 6 887 381
+47 Türkei 7 776 411
+48 Syrien 7 789 434
+49 Iran 7 832 440
+50 Saudi-Arabien 7 800 476
+51 Pakistan 7 879 460
+52 Afghanistan 7 873 431
+53 Jemen 7 816 504
+
+[borders]
+1 2 38
+2 1 3 4
+3 2 29
+4 2 6 5 7
+5 4 13 6
+6 4 5 12 7
+7 4 6 42
+8 10 11 9
+9 8 10 11 12 13 16
+10 8 9 11
+11 8 9 10 12
+12 6 9 11 13
+13 5 9 12
+14 16 35 36 15 17
+15 14 50 37 18 17
+16 9 14 17
+17 14 15 16 20 18
+18 15 17 20 19
+19 18 53 20 21
+20 17 18 19 21 22
+21 19 20 23 22
+22 20 21 23
+23 21 22
+24 25 26 27 44 43
+25 24 42 44
+26 24 27
+27 24 26 28
+28 27
+29 3 30 31
+30 29 31 32 34
+31 29 30 38 32
+32 30 31 33 34 36 37
+33 32 38 37
+34 30 32 35 36
+35 14 34
+36 14 32 34 37
+37 15 32 33 36 47
+38 1 31 33 46 47 40 41 39 42
+39 38 41 42 40 46 52 45 43 44
+40 38 39
+41 38 39 42
+42 7 25 38 39 41
+43 24 39 45 44
+44 24 25 39 43
+45 39 43 51 52
+46 38 39 52 49
+47 37 38 48 49
+48 47 50 49
+49 46 47 48 52 51
+50 15 48 53
+51 45 49 52
+52 39 45 46 49 51
+53 19 50

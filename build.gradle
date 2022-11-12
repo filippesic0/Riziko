@@ -1,0 +1,50 @@
+allprojects {
+    repositories {
+        mavenCentral()
+        jcenter()
+        google()
+    }
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+        jcenter()
+        google()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.3.3'
+        //classpath 'com.google.gms:google-services:4.3.3'  // Google Services plugin
+    }
+}
+
+apply plugin: 'java-library'
+
+compileJava {
+    targetCompatibility = 12
+    sourceCompatibility = 12
+    options.encoding = "cp1252"
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src', 'sharedUI/src_mapstore_lobby', 'sharedUI/src_mini_game_ui']
+        }
+        resources {
+            srcDirs = ['src', 'sharedUI/res_mapstore_lobby', 'sharedUI/res_mini_game_ui']
+        }
+    }
+}
+
+dependencies {
+    // some things are broken when moving to org.apache.httpcomponents:http 4.2+
+    implementation 'org.apache.httpcomponents:httpcore:4.1.2'
+    implementation 'org.apache.httpcomponents:httpmime:4.1.2'
+    api fileTree(dir: 'android/libs', include: 'LobbyCore.jar') // TODO lib should be in shared folder
+    api project(":SwingME")
+
+    // these are needed for compile only, the actual versions used are specific to android/ios
+    compileOnly fileTree(dir: 'swingUI/lib', include: ['Grasshopper.jar','midletrunner.jar'])
+}

@@ -1,0 +1,87 @@
+; map: aragon.map
+; map made with the map maker
+; yura.net Risk 1.0.9.6
+
+[files]
+pic aragon_pic.png
+map aragon_map.gif
+crd aragon.cards
+
+[continents]
+Pirineos 2 blue
+Huesca 2 #33ff00
+Monegros 2 #00ffcc
+Zaragoza 2 #333300
+Moncayo 3 #ff8680
+Baja_Aragón 3 white
+Teruel 2 #f480ff
+
+[countries]
+1 Jacetania 1 187 45
+2 Alto_Gallego 1 236 77
+3 Sobrarbe 1 281 57
+4 Ribagorza 1 331 95
+5 Hoya_de_Huesca 2 211 116
+6 Somontano_de_Barbastro 2 282 128
+7 Cinca_Medio 2 290 172
+8 La_Litera 2 325 156
+9 Monegros 3 234 180
+10 Bajo_Cinca 3 292 205
+11 Ribera_baja_del_Ebro 3 226 232
+12 Bajo_Aragón-Caspe 3 278 266
+13 Zaragoza 4 175 196
+14 Ribera_Alta_del_Ebro 4 128 179
+15 Valdejalón 4 123 216
+16 Campo_de_Cariñena 4 141 239
+17 Campo_de_Belchite 4 181 256
+18 Cinco_Villas 5 135 118
+19 Campo_de_Borja 5 101 176
+20 Tarazona_y_el_Moncayo 5 74 168
+21 Aranda 5 79 205
+22 Com._de_Calatayud 5 53 253
+23 Campo_de_Daroca 5 105 285
+24 Jiloca 6 127 310
+25 Cuencas_Mineras 6 176 321
+26 Andorra 6 208 307
+27 Bajo_Martín 6 223 274
+28 Baja_Aragón 6 253 302
+29 Matarraíl 6 294 315
+30 Albarracín 7 99 397
+31 Com._de_Teruel 7 144 374
+32 Maestrazgo 7 226 364
+33 Gúdar-Javalambre 7 198 416
+
+[borders]
+1 18 2 5
+2 5 1 3 6
+3 2 6 4
+4 6 8 3
+5 13 18 9 2 6 1
+6 9 2 5 7 8 4 3
+7 10 9 6 8
+8 10 6 7 4
+9 11 10 13 5 6 7 12
+10 12 9 7 8
+11 28 17 13 9 27
+12 28 29 10 9
+13 16 17 11 15 14 5 9 18
+14 15 19 13 18
+15 22 16 21 13 14 19
+16 23 22 17 15 13
+17 25 24 23 16 27 11 13
+18 19 14 1 5 13
+19 15 21 20 14 18
+20 21 19
+21 22 15 19 20
+22 23 16 15 21
+23 24 16 17 22
+24 30 25 17 23 31
+25 32 24 17 26 31 27
+26 32 25 28 27
+27 26 28 17 11 25
+28 32 26 29 12 11 27
+29 28 12
+30 31 24
+31 33 30 25 24 32
+32 33 25 26 28 31
+33 31 32

@@ -1,0 +1,180 @@
+; cards: Styria_ShipsWar.cards
+; Made with yura.net Domination 1.1.0.8
+; OS: Mac OS X 10.6.8 unknown (64bit) on x86_64
+
+[cards]
+Cavalry 1
+Infantry 2
+Cannon 3
+Cavalry 4
+Infantry 5
+Cannon 6
+Cavalry 7
+Infantry 8
+Cannon 9
+Cavalry 10
+Infantry 11
+Cannon 12
+Cavalry 13
+Infantry 14
+Cannon 15
+Cavalry 16
+Infantry 17
+Cannon 18
+Cavalry 19
+Infantry 20
+Cannon 21
+Cavalry 22
+Infantry 23
+Cannon 24
+Cavalry 25
+Infantry 26
+Cannon 27
+Cavalry 28
+Infantry 29
+Cannon 30
+Cavalry 31
+Infantry 32
+Cannon 33
+Cavalry 34
+Infantry 35
+Cannon 36
+Cavalry 37
+Infantry 38
+Cannon 39
+Cavalry 40
+Infantry 41
+Cannon 42
+Cavalry 43
+Infantry 44
+Cannon 45
+Cavalry 46
+Infantry 47
+Cannon 48
+Cavalry 49
+Infantry 50
+Cannon 51
+Cavalry 52
+Infantry 53
+Cannon 54
+Cavalry 55
+Infantry 56
+Cannon 57
+Cavalry 58
+Infantry 59
+Cannon 60
+Cavalry 61
+Infantry 62
+Cannon 63
+Cavalry 64
+Infantry 65
+Cannon 66
+Cavalry 67
+Infantry 68
+Cannon 69
+Cavalry 70
+Infantry 71
+Cannon 72
+Cavalry 73
+Infantry 74
+Cannon 75
+Cavalry 76
+Infantry 77
+Cannon 78
+Cavalry 79
+Infantry 80
+Cannon 81
+Cavalry 82
+Infantry 83
+Cannon 84
+Cavalry 85
+Infantry 86
+Cannon 87
+Cavalry 88
+Infantry 89
+Cannon 90
+Cavalry 91
+Infantry 92
+Cannon 93
+Cavalry 94
+Infantry 95
+Cannon 96
+Cavalry 97
+Infantry 98
+Cannon 99
+Cavalry 100
+Infantry 101
+Cannon 102
+Cavalry 103
+Infantry 104
+Cannon 105
+Cavalry 106
+Infantry 107
+Cannon 108
+Cavalry 109
+Infantry 110
+Cannon 111
+Cavalry 112
+Infantry 113
+Cannon 114
+Cavalry 115
+Infantry 116
+Cannon 117
+Cavalry 118
+Infantry 119
+Cannon 120
+Cavalry 121
+Infantry 122
+Cannon 123
+Cavalry 124
+Infantry 125
+Cannon 126
+Cavalry 127
+Infantry 128
+Cannon 129
+Cavalry 130
+Infantry 131
+Cannon 132
+Cavalry 133
+Infantry 134
+Cannon 135
+Cavalry 136
+Infantry 137
+Cannon 138
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+wildcard
+
+; destroy x occupy x x continents x x x
+; destroy (Player) occupy (int int) continents (Continent Continent Continent)
+[missions]
+0	0 0	17 19 20	SULJUK - AZURE & CIRCLE SEAS
+0	0 0	19 20 21	AZURE - CIRCLE & BORSIAN SEAS
+0	0 0	20 21 22	CIRCLE - BORSIAN & BAOL SEAS
+0	0 0	21 22 17	BORSIAN - BAOL & SULJUK SEAS
+0	0 0	22 17 19	BAOL - SULJUK & AZURE SEAS
+0	0 0	4 22 17	CORONTIZ with seas of BAOL & SULJUK
+0	0 0	7 21 22	JACRA with seas of BORSIAN & BAOL
+0	0 0	10 19 17	NICANTE with seas of AZURE & SULJUK
+0	0 0	16 20 19	WESTPORT with seas of CIRCLE & AZURE
+0	0 0	14 20 21	TALINS with seas of CIRCLE & BORSIAN
