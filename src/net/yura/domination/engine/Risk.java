@@ -99,9 +99,9 @@ public class Risk extends Thread {
 	protected Properties riskconfig;
 
         public static final String[] types = new String[] 
-		{ "human","ai average","ai average","ai average","ai average","ai average","ai average","ai average","ai average","ai average","ai average","ai average" };
+		{ "human","ai average","ai average","ai average","ai average","ai average","human","ai average","ai average","ai average","ai average","ai average" };
         public static final String[] names = new String[] 
-		{ "Filip","Braon","Narandzasti","Zuti","Zeleni","Svetloplavi","Plavi","Ljubicasti","Pink","Crni","Sivi","Beli"};//human ai average ai hard
+		{ "Filip","Braon","Narandzasti","Zuti","Zeleni","Svetloplavi","Sofija","Ljubicasti","Pink","Crni","Sivi","Beli"};//human ai average ai hard
         public static final String[] colors = new String[] 
 		{ "red","brown","orange","yellow","green","cyan","blue","violet","magenta","black","darkgray","white"};
 
