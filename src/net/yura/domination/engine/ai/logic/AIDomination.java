@@ -5346,7 +5346,7 @@ public class AIDomination extends AISubmissive {
 				//Ako je branilac covek, pojacava se parametar da se oteza igra:
 				double difficulty=1;
 				if(defender.getOwner().getType() == Player.PLAYER_HUMAN)
-					difficulty=1.5;
+					difficulty=2;
 				double mission;//DODATI PARAMETAR ZA PRESTONICU ILI ZADATAK KAD BUDE RADJENO
 				double parameter=armiesneed/centralization*conqering*enemyneighbours/difficulty;
 				//parametri izmedju 0 i 2 se sabijaju na [1,2], a parametri < 0  na [0,1]:
